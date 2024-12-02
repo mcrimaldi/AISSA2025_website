@@ -115,11 +115,11 @@ deadline_timezone:
 deadlines:
   - date: 2025-01-10
     text: Termine ultimo invio contributi
-    pass_due: True
+    pass_due: False
     strike_through: False
   - date: 2025-02-27
     text: Notifica di accettazione contributi
-    pass_due: True
+    pass_due: False
     strike_through: False
 
 sponsors:
