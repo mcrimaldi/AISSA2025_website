@@ -20,7 +20,7 @@ logo_path: ./assets/images/logo_header.png
 
 # if show_logo is false, show_title: false has no effect
 show_logo: true
-show_title: true
+show_title: false
 
 slideshow:
   - id: 0
