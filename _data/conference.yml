@@ -1,4 +1,4 @@
-full_name: VI Convegno AISSA Under40
+full_name: VI HEAD Convegno AISSA Under40
 short_name: AISSA UNDER40 2025
 description: > # this means to ignore newlines until "baseurl:"
   Le Scienze Agraria per Contivare il Domani:
@@ -14,7 +14,7 @@ year: 2025
 date: 5-6 Giugno 2025
 
 location: Portici (NA)
-country: Italy
+country: Italia
 
 logo_path: ./assets/images/Aissa_3.png
 
