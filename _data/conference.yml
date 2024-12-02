@@ -111,7 +111,7 @@ navbar:
     label: Registration
     path: /registration.html
     visible: True
-deadline_timezone: AoE
+deadline_timezone:
 deadlines:
   - date: 2023-10-03
     text: Submission deadline
@@ -152,18 +152,18 @@ deadlines:
     strike_through: False
 
 sponsors:
-  - name: International Association of Sanskrit Studies
-    logo_path: ./assets/images/sponsors/iass-logo.png
-    url: https://www.sanskritassociation.org/
-  - name: Dharohar
-    logo_path: ./assets/images/sponsors/dharohar-logo.png
-    url: https://dharohar.org/
-  - name: Stichting de Zaaier
-    logo_path: ./assets/images/sponsors/stichting-logo.jpg
-    url: https://www.stichtingdezaaier.nl/
-  - name: Sangrah
-    logo_path: ./assets/images/sponsors/sangrah-logo.jpg
-    url: https://sangrah.org/
+  - name:
+    logo_path:
+    url:
+  - name:
+    logo_path:
+    url:
+  - name:
+    logo_path:
+    url:
+  - name:
+    logo_path:
+    url:
 #   - name: IEEE
 #     logo_path: ./assets/images/sponsors/ieee-logo.gif
 social_media:
