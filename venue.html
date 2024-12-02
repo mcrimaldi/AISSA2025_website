@@ -17,6 +17,14 @@ slide_id: 5
 
     <p>{{site.data.venue.address}}</p>
 
+    <p>{{site.data.venue.directions}}</p>
+
+    <img
+      class="img-fluid"
+      src="{{site.data.venue.direction}}"
+      alt="direction"
+    />
+
     <h6 class="text-info">Dove dormire</h6>
 
     <p>{{site.data.venue.accommodation.instructions}}</p>
@@ -30,13 +38,5 @@ slide_id: 5
     {% endif %}
 
     <h6 class="text-info">Come Raggiungerci</h6>
-
-    <p>{{site.data.venue.directions}}</p>
-
-    <img
-      class="img-fluid"
-      src="{{site.data.venue.direction}}"
-      alt="direction"
-    />
   </div>
 </div>
