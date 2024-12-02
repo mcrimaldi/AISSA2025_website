@@ -163,21 +163,21 @@ social_media:
   facebook_link:
   twitter_link:
 previous_iterations:
-  - name: 6th ISCLS
-    year: 2019
-    url: https://iscls.github.io/iscls2019/
-  - name: 5th ISCLS
-    year: 2013
-    url: https://sites.google.com/site/5isclc2013/Home
-  - name: 4th ISCLS
-    year: 2010
-    url: http://sanskrit.jnu.ac.in/conf/4iscls/index.jsp
-  - name: 3rd ISCLS
-    year: 2009
-    url: https://sanskrit.inria.fr/Symposium/Symposium3.html
-  - name: 2nd ISCLS
-    year: 2008
-    url: https://sanskritlibrary.org/symposium2/home.html
-  - name: 1st ISCLS
-    year: 2007
-    url: https://sanskrit.inria.fr/Symposium/
+  # - name: 6th ISCLS
+  #   year: 2019
+  #   url: https://iscls.github.io/iscls2019/
+  # - name: 5th ISCLS
+  #   year: 2013
+  #   url: https://sites.google.com/site/5isclc2013/Home
+  # - name: 4th ISCLS
+  #   year: 2010
+  #   url: http://sanskrit.jnu.ac.in/conf/4iscls/index.jsp
+  # - name: 3rd ISCLS
+  #   year: 2009
+  #   url: https://sanskrit.inria.fr/Symposium/Symposium3.html
+  # - name: 2nd ISCLS
+  #   year: 2008
+  #   url: https://sanskritlibrary.org/symposium2/home.html
+  # - name: 1st ISCLS
+  #   year: 2007
+  #   url: https://sanskrit.inria.fr/Symposium/
