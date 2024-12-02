@@ -72,7 +72,7 @@ navbar:
     path: /
     visible: True
   - id: 1
-    label: Organization
+    label: Convegno
     path: /organization.html
     visible: True
   - id: 2
