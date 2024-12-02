@@ -101,27 +101,40 @@ navbar:
     path: /organization.html
     visible: True
   - id: 3
-    label: Submission
+    label: Partecipa
     visible: True
     children:
       - id: 1
-        label: Submission
+        label: Iscrizioni
         path: /submission.html
         visible: True
       - id: 2
-        label: Accepted Papers
+        label: Abstract
+        path: /accepted.html
+        visible: True
+      - id: 3
+        label: Poster
         path: /accepted.html
         visible: True
   - id: 4
-    label: Program
+    label: Informazioni
     path: /program.html
     visible: True
+    children:
+      - id: 1
+        label: Come Raggiungerci
+        path: /venue.html
+        visible: True
+      - id: 2
+        label: Dove Dormire
+        path: /venue.html
+        visible: True
   - id: 5
-    label: Venue
+    label: Sponsor
     path: /venue.html
     visible: True
   - id: 6
-    label: Registration
+    label: Contatti
     path: /registration.html
     visible: True
 deadline_timezone:
