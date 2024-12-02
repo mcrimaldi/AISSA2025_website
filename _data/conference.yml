@@ -31,39 +31,39 @@ show_title: true
 
 slideshow:
   - id: 0
-    image_path: ./assets/images/slideshow/0-auroville-beach.jpg
-    description: Auroville Beach
+    image_path: ./assets/images/slideshow/portici0.jpg
+    description: Reggia di Portici
     photographer_name: ""
     photographer_link: ""
     active: True
   - id: 1
-    image_path: ./assets/images/slideshow/1-matrimandir.jpeg
-    description: Matrimandir
+    image_path: ./assets/images/slideshow/portici1.jpg
+    description: Reggia di Portici
     photographer_name: ""
     photographer_link: ""
   - id: 2
-    image_path: ./assets/images/slideshow/2-promenade-beach.webp
-    description: Promenade Beach
+    image_path: ./assets/images/slideshow/portici2.jpg
+    description: Reggia di Portici
     photographer_name: ""
     photographer_link: ""
   - id: 3
-    image_path: ./assets/images/slideshow/3-whitetown.jpg
-    description: White Town
+    image_path: ./assets/images/slideshow/portici3.jpg
+    description: Reggia di Portici
     photographer_name: ""
     photographer_link: ""
   - id: 4
-    image_path: ./assets/images/slideshow/4-manakula-vinayagar-temple.jpg
-    description: Manakula Vinayagar Temple
+    image_path: ./assets/images/slideshow/portici4.jpg
+    description: Reggia di Portici
     photographer_name: ""
     photographer_link: ""
   - id: 5
-    image_path: ./assets/images/slideshow/5-auroville.png
-    description: Auroville
+    image_path: ./assets/images/slideshow/portici5.jpg
+    description: Reggia di Portici
     photographer_name: ""
     photographer_link: ""
   - id: 6
-    image_path: ./assets/images/slideshow/6-mahabalipuram.jpg
-    description: Temple, Mahabalipuram
+    image_path: ./assets/images/slideshow/portici6.jpg
+    description: Reggia di Portici
     photographer_name: ""
     photographer_link: ""
 navbar:
