@@ -3,32 +3,30 @@ layout: page
 ---
 
 <div class="row">
-    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 my-2 text-justify conference-text">
+  <div
+    class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 my-2 text-justify conference-text"
+  >
+    <h5>Benvenuti al {{site.data.conference.short_title}}!</h5>
 
-        <h5>Welcome to the {{site.data.conference.short_title}}!</h5>
+    <p class="lead">
+      Il {{site.data.conference.full_title}} si terrà il
+      {{site.data.conference.date}} nella sede del Dipartimento di Agraria
+      dell'Università di Napoli "Federico II",
+      {{site.data.conference.location}}, {{site.data.conference.country}}.
+    </p>
 
-        <p class="lead">
-            The {{site.data.conference.full_title}} is scheduled on {{site.data.conference.date}} and will be held at
-            {{site.data.conference.location}}, {{site.data.conference.country}}.
-        </p>
+    <p>{{site.data.conference.description}}</p>
 
-        <p>
-            {{site.data.conference.description}}
-        </p>
-
-        {{content}}
-
-        {% include contact-us.html %}
-
-    </div>
-    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
-        <!-- news -->
-        {% include card-news.html %}
-        <!-- ---- -->
-        <!-- important dates -->
-        {% include card-important-dates.html %}
-        <!-- ---------------- -->
-    </div>
+    {{content}} {% include contact-us.html %}
+  </div>
+  <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+    <!-- news -->
+    {% include card-news.html %}
+    <!-- ---- -->
+    <!-- important dates -->
+    {% include card-important-dates.html %}
+    <!-- ---------------- -->
+  </div>
 </div>
 
 {% include sponsors.html %}
