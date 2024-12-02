@@ -1,23 +1,22 @@
-full_name: International Sanskrit Computational Linguistics Symposium
-short_name: ISCLS
+full_name: VI Convegno AISSA Under40
+short_name: AISSAUNDER402025
 description: > # this means to ignore newlines until "baseurl:"
-  ISCLS is a forum for original and unpublished research on various
-  aspects of Computational Linguistics and Digital Humanities related to
-  Sanskrit (Classical and Vedic), Prakrit, Pali, Buddhist Hybrid Sanskrit, etc.
+  Le Scienze Agraria per Contivare il Domani:
+  Sostenibilità e Innovazione in Agricoltura
 
-email: iscls@outlook.com
+email: aissau40@unina.it
 
-iteration: 7th
-full_title: 7th International Sanskrit Computational Linguistics Symposium
-short_title: 7th ISCLS 2024
+iteration: 6th
+full_title: VI Convegno AISSA Under40
+short_title: 6th AISSA Under40 2025
 
-year: 2024
-date: February 15-17, 2024
+year: 2025
+date: 5-6 Giugno 2025
 
-location: Auroville, Puducherry
-country: India
+location: Portici (NA)
+country: Italy
 
-logo_path: ./assets/images/7th_iscls_logo_name.png
+logo_path: ./assets/images/Aissa_3.png
 
 # if show_logo is false, show_title: false has no effect
 show_logo: true
@@ -73,26 +72,26 @@ navbar:
     label: Calls for Papers
     visible: True
     children:
-    - id: 1
-      label: Call for Demos
-      path: /cfd.html
-      visible: True
-    - id: 2
-      label: Call for Papers
-      path: /cfp.html
-      visible: True
+      - id: 1
+        label: Call for Demos
+        path: /cfd.html
+        visible: True
+      - id: 2
+        label: Call for Papers
+        path: /cfp.html
+        visible: True
   - id: 3
     label: Submission
     visible: True
     children:
-    - id: 1
-      label: Submission
-      path: /submission.html
-      visible: True
-    - id: 2
-      label: Accepted Papers
-      path: /accepted.html
-      visible: True
+      - id: 1
+        label: Submission
+        path: /submission.html
+        visible: True
+      - id: 2
+        label: Accepted Papers
+        path: /accepted.html
+        visible: True
   - id: 4
     label: Program
     path: /program.html
