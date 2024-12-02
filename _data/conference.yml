@@ -75,6 +75,27 @@ navbar:
     label: Convegno
     path: /organization.html
     visible: True
+    children:
+      - id: 1
+        label: Programma
+        path: /organization.html
+        visible: True
+      - id: 2
+        label: Invited Speaker
+        path: /organization.html
+        visible: True
+      - id: 3
+        label: Grant & Awards
+        path: /organization.html
+        visible: True
+      - id: 4
+        label: Post Congress Tours
+        path: /organization.html
+        visible: True
+      - id: 5
+        label: Cena Sociale
+        path: /organization.html
+        visible: True
   - id: 2
     label: Calls for Papers
     visible: True
