@@ -23,7 +23,7 @@ location: Università di Napoli "Federico II" <br />
   Dipartimento di Agraria <br /> Portici (NA)
 country: Italia
 
-logo_path: ./assets/images/Aissa_3.png
+logo_path: ./assets/images/logo_header.png
 
 # if show_logo is false, show_title: false has no effect
 show_logo: true
