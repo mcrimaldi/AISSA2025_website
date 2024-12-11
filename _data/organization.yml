@@ -100,7 +100,7 @@
       org: Università degli Studi di Napoli Federico II
       post: ""
       homepage: ""
-    - name: savy Davide - AGR/13
+    - name: Savy Davide - AGR/13
       org: Università degli Studi di Napoli Federico II
       post: ""
       homepage: ""
@@ -144,4 +144,4 @@
   members:
     - name: Crimaldi Mariano - AGR/09
       org: Università degli Studi di Napoli Federico II
-      homepage: "<p>Mariano Crimaldi</p><p>AGR/09</p><p>Università degli Studi di Napoli Federico II</p>"
+      homepage: https://mcrimaldi.github.io
