@@ -81,19 +81,19 @@ navbar:
         visible: True
       - id: 2
         label: Invited Speaker
-        path: /organization.html
+        path: /invited_speaker.html
         visible: True
       - id: 3
         label: Grant & Awards
-        path: /organization.html
+        path: /grant.html
         visible: True
       - id: 4
         label: Post Congress Tours
-        path: /organization.html
+        path: /post_congress.html
         visible: True
       - id: 5
         label: Cena Sociale
-        path: /organization.html
+        path: /cena_sociale.html
         visible: True
   - id: 2
     label: Comitati
