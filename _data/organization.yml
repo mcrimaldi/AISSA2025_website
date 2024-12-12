@@ -134,10 +134,106 @@
   members:
     - name: Cei Leonardo - AGR/01
       org: UniPD
-      homepage:
+      homepage: ""
     - name: Verdi Leonardo - AGR/02
       org: UniFI
-      homepage:
+      homepage: ""
+    - name: Ronga Domenico - AGR/02
+      org: UniSA
+      homepage: ""
+    - name: Pulina Antonio - AGR/02
+      org: UniSS
+      homepage: ""
+    - name: ferrero Francesco - AGR/02
+      org: UniTO
+      homepage: ""
+    - name: Lo Piccolo Ermes - AGR/03
+      org: UniFI
+      homepage: ""
+    - name: Franzoni Giulia - AGR/04
+      org: UniMI
+      homepage: ""
+    - name: Sala Giovanna - AGR/05
+      org: UniPA
+      homepage: ""
+    - name: Niccoli Francesco - AGR/05
+      org: UniCAMPANIA
+      homepage: ""
+    - name: Laschi Andrea - AGR/06
+      org: UniPA
+      homepage: ""
+    - name: Cetera Paola - AGR/06
+      org: UniSS
+      homepage: ""
+    - name: Checcucci Alice - AGR/07
+      org: UniFI
+      homepage: ""
+    - name: Marzano Stefania - AGR/07
+      org: UniBAS
+      homepage: ""
+    - name: Lavrnic Stevo - AGR/08
+      org: UniBO
+      homepage: ""
+    - name: Ricci Giovanni Francesco - AGR/08
+      org: UniBA
+      homepage: ""
+    - name: Varani Massimiliano - AGR/09
+      org: UniBO
+      homepage: ""
+    - name: Santolini Enrica - AGR/10
+      org: UniBO
+      homepage: ""
+    - name: Becchimanzi Andrea - AGR/11
+      org: UniNA
+      homepage: ""
+    - name: Manganiello Gelsomina - AGR/12
+      org: UniNA
+      homepage: ""
+    - name: Brandano Andrea - AGR/11
+      org: UniNA
+      homepage: ""
+    - name: Lazazzara Valentina - AGR/12
+      org: CNR
+      homepage: ""
+    - name: Garau Matteo - AGR/13
+      org: UniSS
+      homepage: ""
+    - name: Giannetta Beatrice - AGR/13
+      org:
+      homepage: ""
+    - name: Ceccanti Costanza - AGR/13
+      org: UniPI
+      homepage: ""
+    - name: De Feudis Mauro - AGR/14
+      org: UniBO
+      homepage: ""
+    - name: Mastrolonardo Giovanni - AGR/14
+      org: UniFI
+      homepage: ""
+    - name: Squeo Giacomo - AGR/15
+      org: UniBO
+      homepage: ""
+    - name: Salvetti Elisa - AGR/16
+      org: UniVR
+      homepage: ""
+    - name: Farda Beatrice - AGR/16
+      org: UniVAQ
+      homepage: ""
+    - name: Fabbri Maria Chiara - AGR/17
+      org: UniPR
+      homepage: ""
+    - name: Ferronato Giulia - AGR/18
+      org: UniBS
+      homepage: ""
+    - name: Lambiase Claudia - AGR/19
+      org: UniNA
+      homepage: ""
+    - name: Serrapica Francesco - AGR/18
+      org: UniNa
+      homepage: ""
+    - name: Birolo Marco - AGR/20
+      org: UniPD
+      homepage: ""
 
 - title: Webmaster
   column: 1
