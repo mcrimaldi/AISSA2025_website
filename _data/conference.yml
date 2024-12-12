@@ -125,7 +125,7 @@ navbar:
         visible: True
       - id: 2
         label: Dove Dormire
-        path: /venue.html
+        path: /accomodation.html
         visible: True
   - id: 5
     label: Sponsor
