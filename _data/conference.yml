@@ -105,7 +105,7 @@ navbar:
     children:
       - id: 1
         label: Iscrizioni
-        path: /submission.html
+        path: /registration.html
         visible: True
       - id: 2
         label: Abstract
@@ -113,7 +113,7 @@ navbar:
         visible: True
       - id: 3
         label: Poster
-        path: /accepted.html
+        path: /submission.html
         visible: True
   - id: 4
     label: Informazioni
