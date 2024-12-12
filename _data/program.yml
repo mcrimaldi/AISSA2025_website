@@ -12,7 +12,6 @@ online:
 
 schedule:
   live: true
-  tbd: true
   program_slots:
     day:
       - date: "2017-10-14"
