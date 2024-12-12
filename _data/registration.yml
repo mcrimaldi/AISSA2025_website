@@ -1,5 +1,5 @@
 about: "Le iscrizioni al VI Convegno AISSA Under 40 sono aperte. Per iscriversi compilare il form e seguire le istruzioni qui sotto:"
-url: "https://docs.google.com/forms/d/1S1AtK_xwlmuM_NSXWuP9eZ8WhXjKCZsrhzO9WPwBhPg/viewform?ts=675acc84&edit_requested=true"
+url: "https://forms.gle/Uc4vuzgvpAV4Yh1CA"
 description: |
   <h5 class="text-info">Iscrizioni</h5>
 
@@ -8,10 +8,9 @@ description: |
   </p>
 
   <p>
-    Compilare il form qui sotto o al link in testa alla pagina:
+    Compilare il form <a class="font-weight-bold" href="https://forms.gle/Uc4vuzgvpAV4Yh1CA"><i>qui</i></a> o al link in testa alla pagina:
   </p>
 
-  <iframe width="640px" height="480px" src="https://docs.google.com/forms/d/1S1AtK_xwlmuM_NSXWuP9eZ8WhXjKCZsrhzO9WPwBhPg/viewform?ts=675acc84&edit_requested=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
   <p>
     Scaricare, compilare e inviare la scheda di iscrizione all'indirizzo mail <a href="{{site.data.submission.url}}">aissau40@unina.it</a> unitamente alla ricevuta del bonifico bancario.
