@@ -12,17 +12,30 @@ slide_id: 3
         <h6 class="text-info">Instruzioni</h6>
 
         <p>
-            Submitted papers must be neither previously published nor under
-            review by another workshop, conference or journal.
+            L'abstract deve avere titolo, autori, affiliazione, un testo (max 300 parole) e keywords,
+            si ricorda di riempire i campi con le informazioni presenti alla fine della pagina: preferenza per la presentazione,
+            qualifica del proponente e indicazione del/dei settore/i scientifico-disciplinari AGR di afferenza della tematica del contributo.
+            E’ necessario indicare uno o più settori principali ed è possibile indicare anche quelli secondari, nel caso.
         </p>
 
         <p>
-            Only electronic submissions in {{site.data.submission.file_formats | join:" oppure "}} format
-            will be accepted. Submitted articles must be written in
-            {{site.data.submission.languages | join:" or "}}, conforming to the page limit, in
-            {{site.data.submission.fontsize}}-point font and must render without
-            error using standard PDF viewing tools.
+            Tabelle o altri elementi grafici possono essere inclusi nella submission, ma potrebbero non essere inclusi nel book of abstracts.
         </p>
+
+        <p>
+            Ogni autore può contribuire con più abstracts. Tuttavia, per l'assegnazione delle presentazioni orali, si cercherà di favorire la diversificazione degli relatori.
+        </p>
+
+        <p>
+            Il file deve essere allegato in email in formato {{site.data.submission.file_formats | join:" oppure "}}.
+            L'abstract deve essere scritto il lingua {{site.data.submission.languages | join:" or "}}, rispettare i limiti, in una
+            forma chiare, leggibile e sezna errori.
+        </p>
+
+        <p>
+            La deadline per la sottomissione degli Abstract è nel box a fianco
+        </p>
+
         <p>
             <b>Limiti per la sottomissione</b>
             <table class="table border">
@@ -35,21 +48,9 @@ slide_id: 3
             </table>
         </p>
 
-        <p>
-            Papers should use the <strong class="text-danger">{{site.data.submission.template.description}}</strong>, available at
-            <a href="{{site.data.submission.template.url}}" target="_blank">
-                <i class="fa fa-external-link fa-fw" aria-hidden="true"></i> {{site.data.submission.template.name}}
-            </a>.
-            {% if site.data.submission.template.overleaf %}The template is also available at
-            <a href="{{site.data.submission.template.overleaf}}" target="_blank">
-                <i class="fa fa-external-link fa-fw" aria-hidden="true"></i> Overleaf
-            </a>
-            {% endif %}
-        </p>
-
         {% if site.data.submission.sources %}
         <p>
-            <h6 class="text-info">File Template</h6>
+            <h6 class="text-info">Template Abstract e Poster</h6>
             <ul>
                 {% for source in site.data.submission.sources %}
                 <li>{{source.name}}: <a href="{{source.url}}">{{source.text}}</a></li>
@@ -65,9 +66,8 @@ slide_id: 3
         {% endif %}
 
         <p>
-            <h6 class="text-info">Submission</h6>
-            To submit your paper, please follow below link to the submission
-            site:
+            <h6 class="text-info">Invio contributi</h6>
+            Gli abstract dovranno essere inviati come allegato scrivendo una mail al link qui sotto oggetto "<i>AISSAunder40</i>" seguito dal cognome e nome del corresponding author (esempio: “<i>Submission AISSAunder40 - Rossi Mario</i>”)
         </p>
 
         <p class="text-center">
@@ -83,26 +83,6 @@ slide_id: 3
             registered. All papers presented at the workshop will be included in
             the {{site.data.submission.publisher}}.
         </p>
-
-        <h6 class="text-info">Camera-Ready Instructions</h6>
-        <p>
-            You will receive the information via your email for camera-ready
-            instructions.
-
-            <!--
-                    The Author's Final Paper Formatting and Submission Instructions can be found at:</p>
-
-                <p style="padding-top: 6px;padding-bottom: 6px;">
-                </p>
-
-                <p>If you encounter any problem, please contact our editor, ____, for assistance.</p>
-
-                    <p>Please note your final camera-ready is due by
-                    <b>September 25, 2015.</b>
-                -->
-
-        </p>
-
 
         {% include contact-us.html %}
 

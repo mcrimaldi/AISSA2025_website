@@ -17,12 +17,12 @@ pagelimits:
     limit: 300 parole
   - type: poster
     name: Poster
-    limit: In definizione
+    limit: 70 x 100 cm
 
 fontsize: 10
 
 extra: |
-  <h6 class="text-info">Compilatione</h6>
+  <h6 class="text-info">Compilazione</h6>
 
   Il nome del file DEVE essere come il seguente <code>CognomeNome_AISSAunder40.docx</code>.
 
@@ -31,8 +31,8 @@ sources:
     url: ./assets/files/Abstract_AISSA_under40_Format.docx
     text: Abstract_AISSA_under40_Format.docx
   - name: Template Poster
-    url: ./assets/files/AISSA_under40_PosterFormat.pptx
-    text: AISSA_under40_PosterFormat.pptx
+    url: ./assets/files/Template_poster_AISSA_under40.pptx
+    text: Template_poster_AISSA_under40.pptx
 # - name: Style file
 #   url: ./assets/files/scl.sty
 #   text: scl.sty
