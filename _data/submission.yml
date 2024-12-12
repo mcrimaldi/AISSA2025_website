@@ -28,7 +28,7 @@ extraAbstract: |
 extraPoster: |
   <h6 class="text-info">Compilazione</h6>
 
-  Il nome del file DEVE essere come il seguente <code>CognomeNome_AISSAunder40.docx</code>.
+  Il nome del file DEVE essere come il seguente <code>CognomeNome_AISSAunder40.pptx</code>.
 
 sources:
   - name: Template Abstract
