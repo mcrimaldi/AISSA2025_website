@@ -33,17 +33,5 @@ slide_id: 5
       src="{{site.data.venue.direction}}"
       alt="direction"
     />
-
-    <h6 class="text-info">Dove dormire</h6>
-
-    <p>{{site.data.venue.accommodation.instructions}}</p>
-
-    {% if site.data.venue.accommodation.hotels %}
-    <ul>
-      {% for hotel in site.data.venue.accommodation.hotels %}
-      <li><b>{{hotel.name}}</b> ({{hotel.address}})</li>
-      {% endfor %}
-    </ul>
-    {% endif %}
   </div>
 </div>

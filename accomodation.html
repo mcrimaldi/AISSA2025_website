@@ -1,0 +1,21 @@
+---
+title: Accomodation
+layout: page
+slide_id: 6
+---
+
+<div class="row mt-xs-0 mt-sm-0 my-2">
+  <div class="col text-muted">
+    <h6 class="text-info">Dove dormire</h6>
+
+    <p>{{site.data.venue.accommodation.instructions}}</p>
+
+    {% if site.data.venue.accommodation.hotels %}
+    <ul>
+      {% for hotel in site.data.venue.accommodation.hotels %}
+      <li><b>{{hotel.name}}</b> ({{hotel.address}})</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </div>
+</div>
