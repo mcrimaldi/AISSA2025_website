@@ -109,7 +109,7 @@ navbar:
         visible: True
       - id: 2
         label: Abstract
-        path: /accepted.html
+        path: /submission.html
         visible: True
       - id: 3
         label: Poster

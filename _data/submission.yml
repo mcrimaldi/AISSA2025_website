@@ -1,59 +1,52 @@
-portal: CMT3 Submission Portal
-url: "https://cmt3.research.microsoft.com/ISCLS2024"
+portal: Email organizzazione AISSA Under40
+url: "mailto:aissau40@unina.it"
 
 file_formats:
   - PDF
+  - Word
 languages:
-  - English
+  - Inglese
 
 review_mode: 1
 # 0: double blind
 # 1: single blind
 
 pagelimits:
-  - type: paper
-    name: Paper
-    limit: 20
-  - type: demo
-    name: Demonstration
-    limit: 2
+  - type: abstract
+    name: Abstract
+    limit: 300 parole
+  - type: poster
+    name: Poster
+    limit: In definizione
 
 fontsize: 10
 
 extra: |
-  <h6 class="text-info">Compilation</h6>
+  <h6 class="text-info">Compilatione</h6>
 
-  Let the fileame of your submision be <code>ABC.tex</code>.
-
-  <pre class="pre-scrollable bg-dark text-light rounded mt-2 p-2">
-  $ xelatex ABC
-  $ bibtex ABC
-  $ bibtex ABC # Remember to run bibtex twice
-  $ xelatex ABC
-  </pre>
+  Il nome del file DEVE essere come il seguente <code>CognomeNome_AISSAunder40.docx</code>.
 
 sources:
-- name: Sample TeX Source File
-  url: ./assets/files/iscls.tex
-  text: iscls.tex
-- name: Sample PDF file
-  url: ./assets/files/iscls.pdf
-  text: iscls.pdf
-- name: Style file
-  url: ./assets/files/scl.sty
-  text: scl.sty
-- name: Bibliography Style
-  url: ./assets/files/acl.bst
-  text: acl.bst
-- name: Sample Bibliography file
-  url: ./assets/files/iscls.bib
-  text: iscls.bib
+  - name: Template Abstract
+    url: ./assets/files/Abstract_AISSA_under40_Format.docx
+    text: Abstract_AISSA_under40_Format.docx
+  - name: Template Poster
+    url: ./assets/files/AISSA_under40_PosterFormat.pptx
+    text: AISSA_under40_PosterFormat.pptx
+# - name: Style file
+#   url: ./assets/files/scl.sty
+#   text: scl.sty
+# - name: Bibliography Style
+#   url: ./assets/files/acl.bst
+#   text: acl.bst
+# - name: Sample Bibliography file
+#   url: ./assets/files/iscls.bib
+#   text: iscls.bib
 
+# template:
+#   name: ISCLS Submission Template
+#   description: submission template and instructions for ISCLS
+#   url: ./assets/files/iscls-template.zip
+#   overleaf: https://www.overleaf.com/latex/templates/submission-template-and-instructions-for-the-iscls/dmhhdjnxqftd
 
-template:
-  name: ISCLS Submission Template
-  description: submission template and instructions for ISCLS
-  url: ./assets/files/iscls-template.zip
-  overleaf: https://www.overleaf.com/latex/templates/submission-template-and-instructions-for-the-iscls/dmhhdjnxqftd
-
-publisher: Association for Computational Linguistics Anthology
+# publisher: Association for Computational Linguistics Anthology

@@ -9,7 +9,7 @@ slide_id: 3
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 my-2 text-justify conference-text">
 
 
-        <h6 class="text-info">Instructions</h6>
+        <h6 class="text-info">Instruzioni</h6>
 
         <p>
             Submitted papers must be neither previously published nor under
@@ -17,14 +17,14 @@ slide_id: 3
         </p>
 
         <p>
-            Only electronic submissions in {{site.data.submission.file_formats | join:" or "}} format
+            Only electronic submissions in {{site.data.submission.file_formats | join:" oppure "}} format
             will be accepted. Submitted articles must be written in
             {{site.data.submission.languages | join:" or "}}, conforming to the page limit, in
             {{site.data.submission.fontsize}}-point font and must render without
             error using standard PDF viewing tools.
         </p>
         <p>
-            <b>Page Limit</b>
+            <b>Limiti per la sottomissione</b>
             <table class="table border">
                 {% for track in site.data.submission.pagelimits %}
                 <tr>
@@ -49,7 +49,7 @@ slide_id: 3
 
         {% if site.data.submission.sources %}
         <p>
-            <h6 class="text-info">Source Files</h6>
+            <h6 class="text-info">File Template</h6>
             <ul>
                 {% for source in site.data.submission.sources %}
                 <li>{{source.name}}: <a href="{{source.url}}">{{source.text}}</a></li>
