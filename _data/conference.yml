@@ -113,7 +113,7 @@ navbar:
         visible: True
       - id: 3
         label: Poster
-        path: /submission.html
+        path: /submission_poster.html
         visible: True
   - id: 4
     label: Informazioni
