@@ -21,7 +21,11 @@ pagelimits:
 
 fontsize: 10
 
-extra: |
+extraAbstract: |
+  <h6 class="text-info">Compilazione</h6>
+
+  Il nome del file DEVE essere come il seguente <code>CognomeNome_AISSAunder40.docx</code>.
+extraPoster: |
   <h6 class="text-info">Compilazione</h6>
 
   Il nome del file DEVE essere come il seguente <code>CognomeNome_AISSAunder40.docx</code>.
