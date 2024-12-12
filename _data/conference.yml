@@ -77,7 +77,7 @@ navbar:
     children:
       - id: 1
         label: Programma
-        path: /organization.html
+        path: /program.html
         visible: True
       - id: 2
         label: Invited Speaker
