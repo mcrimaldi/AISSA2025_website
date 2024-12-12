@@ -32,7 +32,7 @@ slide_id: 4
         </p>
         {% endif %}
         <h6 class="text-info">Programma</h6>
-        {% if site.data.program.schedule.live != nil %}
+        {% if site.data.program.schedule.live %}
         {% for day in site.data.schedule.program_slots %}
         <div>
             <h4 class="schedule-table-heading">{{ day.dateReadable }} - Day {{ forloop.index }}</h4>
