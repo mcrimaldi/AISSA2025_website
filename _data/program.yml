@@ -14,7 +14,7 @@ schedule:
   live: true
   tbd: true
   program_slots:
-    - day: "2017-10-14"
+    - date: "2017-10-14"
       dateReadable: "October 14"
       timeslots:
         - startTime: "8:50"
