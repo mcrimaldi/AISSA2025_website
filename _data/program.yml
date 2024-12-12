@@ -11,7 +11,7 @@ online:
       url: https://www.youtube.com/watch?v=n1SPshTzcbg&ab_channel=SanskritResearchInstitute
 
 schedule:
-  live: false
+  live: true
   tbd: true
   program_slots:
     - day: "2017-10-14"
