@@ -1,38 +1,21 @@
-about: "Registrations for 7th ISCLS are now open. You may register using the following link."
-url: "https://donorbox.org/events/535583"
+about: "Le iscrizioni al VI Convegno AISSA Under 40 sono aperte. Per iscriversi compilare il form e seguire le istruzioni qui sotto:"
+url: "https://forms.office.com/e/EEk7qKkYyd"
 description: |
   <h5 class="text-info">Iscrizioni</h5>
-  <iframe width="640px" height="480px" src="https://forms.office.com/e/EEk7qKkYyd?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
-
-
-
-
-
-
 
   <p>
-    Please note the fees will increase after 10/01/2024. Please register before
-    that to avail the EARLY BIRD registration rates.
+    Per iscriversi al convegno AISSA#under40 è necessario:
   </p>
 
-  <p class="font-weight-bold">
-    If paying with an Indian debit or credit card please note
-    <a href="https://en.wikipedia.org/wiki/3-D_Secure">3-D Secure</a> (3DS)
-    is mandatory for payments online in India and please ensure your card is
-    enabled for international payments, kindly request your bank to enable it
-    if it is not. In case you face difficulty with payments please write to
-    <a href="mailto:iscls@sri.auroville.org">iscls@sri.auroville.org</a> for
-    alternatives.
+  <p>
+    Compilare il form qui sotto o al link in testa alla pagina:
   </p>
 
-  <div id="donorboxEmbed"></div>
-  <script type='text/javascript' src='https://donorbox.org/embed_event_widget.js'></script>
-  <script type='text/javascript'>
-    DonorboxEventWidget.embed({
-      container: 'donorboxEmbed',
-      embedFormSlug: 'https://donorbox.org/embed_event/535583'
-    });
-  </script>
+  <iframe width="640px" height="480px" src="https://forms.office.com/e/EEk7qKkYyd?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+  <p>
+    Scaricare, compilare e inviare la scheda di iscrizione all'indirizzo mail <a href="{{site.data.submission.url}}">aissau40@unina.it</a> unitamente alla ricevuta del bonifico bancario.
+  </p>
 
   <br>
-  Check the <a class="font-weight-bold" href="./venue.html">Venue</a> tab for details about accommodation.
+  Controllare la pagina <a class="font-weight-bold" href="./venue.html"><i>Come Raggiungerci</i></a> per i dettagli sul luogo dell'evento.
