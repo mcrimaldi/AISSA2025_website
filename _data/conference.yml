@@ -129,7 +129,7 @@ navbar:
         visible: True
   - id: 5
     label: Sponsor
-    path: /venue.html
+    path: /sponsors.html
     visible: True
   - id: 6
     label: Contatti
