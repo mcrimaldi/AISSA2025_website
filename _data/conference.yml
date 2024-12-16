@@ -133,7 +133,7 @@ navbar:
     visible: True
   - id: 6
     label: Contatti
-    path: /registration.html
+    path: /contacts.html
     visible: True
 deadline_timezone:
 deadlines:
