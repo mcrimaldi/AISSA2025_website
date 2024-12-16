@@ -137,12 +137,16 @@ navbar:
     visible: True
 deadline_timezone:
 deadlines:
-  - date: 2025-01-10
-    text: Termine ultimo invio contributi
+  - date: 2025-01-20
+    text: Termine ultimo invio abstract
     pass_due: False
     strike_through: False
-  - date: 2025-02-27
-    text: Notifica di accettazione contributi
+  - date: 2025-03-20
+    text: Comunicazione dell’esito della valutazione degli abstract e indicazione della modalità di presentazione. Apertura iscrizioni al Convegno.
+    pass_due: False
+    strike_through: False
+  - date: 2025-05-01
+    text: Termine iscrizione quota ridotta.
     pass_due: False
     strike_through: False
 
