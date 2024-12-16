@@ -142,11 +142,15 @@ deadlines:
     pass_due: False
     strike_through: False
   - date: 2025-03-20
-    text: Comunicazione dell’esito della valutazione degli abstract e indicazione della modalità di presentazione. Apertura iscrizioni al Convegno.
+    text: Comunicazione dell’esito della valutazione degli abstract e indicazione della modalità di presentazione
+    pass_due: False
+    strike_through: False
+  - date: 2025-03-20
+    text: Apertura iscrizioni
     pass_due: False
     strike_through: False
   - date: 2025-05-01
-    text: Termine iscrizione quota ridotta.
+    text: Termine iscrizione quota ridotta
     pass_due: False
     strike_through: False
 
