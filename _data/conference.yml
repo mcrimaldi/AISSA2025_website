@@ -129,7 +129,7 @@ navbar:
         visible: True
   - id: 5
     label: Sponsor
-    path: /sponsors.html
+    path: /sponsors_page.html
     visible: True
   - id: 6
     label: Contatti
@@ -147,18 +147,18 @@ deadlines:
     strike_through: False
 
 sponsors:
-  - name:
-    logo_path:
-    url:
-  - name:
-    logo_path:
-    url:
-  - name:
-    logo_path:
-    url:
-  - name:
-    logo_path:
-    url:
+  # - name:
+  #   logo_path:
+  #   url:
+  # - name:
+  #   logo_path:
+  #   url:
+  # - name:
+  #   logo_path:
+  #   url:
+  # - name:
+  #   logo_path:
+  #   url:
 #   - name: IEEE
 #     logo_path: ./assets/images/sponsors/ieee-logo.gif
 social_media:
