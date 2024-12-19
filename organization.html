@@ -15,6 +15,11 @@ slide_id: 1
       {% if committee.members %} {% for member in committee.members %}
       <div class="card-block bg-light committee">
         <p>
+          <img
+            src="{{ member.thumbnail }}"
+            alt="{{ member.name }}"
+            style="width: 30px; height: 30px; margin-right: 10px"
+          />
           <a href="{{ member.homepage }}"><strong>{{ member.name }}</strong></a>
         </p>
         <p
