@@ -17,11 +17,14 @@ slide_id: 1
         <p>
           <a href="{{ member.homepage }}"><strong>{{ member.name }}</strong></a>
         </p>
-        <p class="card-subtitle text-muted" style="font-size: 90%">
+        <p
+          class="card-subtitle text-muted"
+          style="font-size: 90%; font-weight: bold"
+        >
           {{ member.org }}
         </p>
         {% if member.post %}
-        <p class="card-subtitle text-muted" style="font-size: 90%">
+        <p class="card-subtitle text-muted" style="font-size: 70%">
           {{ member.post }}
         </p>
         {% endif %}
