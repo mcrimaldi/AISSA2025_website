@@ -3,7 +3,7 @@
   members:
     - name: Cavallo Carla - AGR/01
       org: Università degli Studi di Napoli Federico II
-      post: ""
+      post: "Test descrizione"
       homepage:
       thumbnail: "./assets/images/7th_iscls_logo.png"
       description: "Test descrizione"
