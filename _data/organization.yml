@@ -215,8 +215,9 @@
       org: UniBO
       homepage: ""
     - name: Mastrolonardo Giovanni - AGR/14
-      org: UniFI
-      homepage: ""
+      org: Università degli Studi di Firenze
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=41361668000
+      thumbnail: "./assets/images/thumbs/mastrolonardo.jpg"
     - name: Squeo Giacomo - AGR/15
       org: UniBO
       homepage: ""
