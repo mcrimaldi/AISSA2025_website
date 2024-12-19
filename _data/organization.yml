@@ -143,8 +143,10 @@
       org: UniPD
       homepage: ""
     - name: Verdi Leonardo - AGR/02
-      org: UniFI
-      homepage: ""
+      org: Università degli Studi di Firenze
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=57204481235
+      thumbnail: "./assets/images/thumbs/verdi.jpg"
+      post: "Ricercatore a tempo determinato di tipo A nel settore scientifico disciplinare AGR/02, Agronomia e Coltivazioni Erbacee, presso il Dipartimento di Scienze e Tecnologie Agrarie, Alimentari, Ambientali e Forestali (DAGRI) dell’Università degli Studi Firenze. Nel 2018 ha ottenuto il Dottorato di Ricerca in Scienze Agrarie e Ambientali presso la stessa Università. I suoi principali ambiti di ricerca includono l’agronomia e l’agrometeorologia, la fertilizzazione organica, le emissioni di gas serra dal suolo agricolo, la coltivazione di cereali da granella e lo studio del ruolo dell'agricoltura nella mitigazione dei cambiamenti climatici."
     - name: Ronga Domenico - AGR/02
       org: UniSA
       homepage: ""
@@ -155,8 +157,10 @@
       org: UniTO
       homepage: ""
     - name: Lo Piccolo Ermes - AGR/03
-      org: UniFI
-      homepage: ""
+      org: Università degli Studi di Firenze
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=57192063751
+      thumbnail: "./assets/images/thumbs/lopiccolo.jpg"
+      post: "Ricercatore a tempo determinato di tipo A nel settore scientifico disciplinare AGR/03, Arboricoltura Generale e Coltivazioni Arboree, presso il Dipartimento di Scienze e Tecnologie Agrarie, Alimentari, Ambientali e Forestali (DAGRI) dell’Università degli Studi Firenze. Principali linee di studio: Meccanismi fisiologici, biochimici e molecolari di risposta delle piante arboree a stress di natura abiotica e biotica. In questa linea di ricerca emergono chiare tematiche principali, come di seguito dettagliate: i) - Studio del processo fotosintetico in specie vegetali esposte a stress abiotici e biotici (stress idrico, stress salino, differenti qualità e quantità di luce); ii) Valutazione del ruolo fisiologico degli antociani in piante arboree; iii) Valutazione dell’impatto dell’inquinamento luminoso urbano su specie arboree."
     - name: Franzoni Giulia - AGR/04
       org: UniMI
       homepage: ""
@@ -173,8 +177,10 @@
       org: UniSS
       homepage: ""
     - name: Checcucci Alice - AGR/07
-      org: UniFI
-      homepage: ""
+      org: Università degli Studi di Firenze
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=56436203000
+      thumbnail: "./assets/images/thumbs/checcucci.jpg"
+      post: "Ricercatrice presso il Dipartimento di Scienze e Tecnologie Agrarie, Alimentari, Ambientali e Forestali dell’Università degli Studi di Firenze nel SSD AGR/07, Genetica Agraria. Nel 2017 ha ottenuto il Dottorato di Ricerca in Genetica e Microbiologia, presso l’Università degli Studi di Firenze, nello stesso anno il premio dell’Associazione Genetica Italiana come miglior tesi di dottorato. Nel 2018 è stata premiata dalla FEMS (Federation of European Microbiological Societies) con un Research Travel Grant per trascorrere un periodo di ricerca presso il CNRS di Marsiglia (Francia), e con una borsa annuale della Fondazione Adriano-Buzzati Traverso. Ha svolto attività di ricerca presso il Dipartimento di Biologia dell’Università degli Studi di Firenze e il Dipartimento di Scienze e Tecnologie Agro-Alimentari dell’Università di Bologna. I suoi principali interessi di ricerca includono lo studio dell’interazione pianta-microrganismi per il miglioramento della produttività in campo agrario, la caratterizzazione dell’attività metabolica di cellule vegetali, e l’identificazione dei geni responsabili della resistenza a stress nelle piante."
     - name: Marzano Stefania - AGR/07
       org: UniBAS
       homepage: ""
@@ -218,6 +224,7 @@
       org: Università degli Studi di Firenze
       homepage: https://www.scopus.com/authid/detail.uri?authorId=41361668000
       thumbnail: "./assets/images/thumbs/mastrolonardo.jpg"
+      post: "Ricercatore senior (RTD-B) nel settore scientifico disciplinare AGR/14, Pedologia, presso il Dipartimento di Scienze e Tecnologie Agrarie, Alimentari Ambientali e Forestali dell’Università degli Studi di Firenze. Nel 2013 ha ottenuto il dottorato in scienza del suolo presso l’Università di Firenze e l’Università Paris VI (dottorato in cotutela). Ha prestato servizio come assegnista presso il CNR, l’Università di Bologna e ha svolto un post-doc Marie Curie presso l’Università di Liège in Belgio. I suoi principali interessi di ricerca includono lo studio delle caratteristiche dei suoli in ambienti agro-forestali e urbani, con particolare riferimento alla frazione organica, e il degrado del suolo a seguito di fenomeni naturali ed antropici."
     - name: Squeo Giacomo - AGR/15
       org: UniBO
       homepage: ""
@@ -229,7 +236,9 @@
       homepage: ""
     - name: Fabbri Maria Chiara - AGR/17
       org: UniPR
-      homepage: ""
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=57211533565
+      thumbnail: "./assets/images/thumbs/fabbri.jpg"
+      post: "Ricercatrice junior (RTD-A) nel settore scientifico disciplinare AGR/17, Zootecnia generale e miglioramento genetico presso il Dipartimento di Scienze e Tecnologie Agrarie, Alimentari, Ambientali e Forestali (DAGRI) dell’Università degli Studi di Firenze. Ha conseguito il titolo di Dottore di Ricerca nel febbraio 2022, discutendo la tesi “Conservation status, genetic diversity and selection signatures of Italian autochthonous beef breeds utilizing pedigree and genomic information”. I suoi principali interessi di ricerca includono: i) lo studio della diversità genetica e genomica nelle razze locali, in particolare nella specie bovina e delle potenziali strategie per la conservazione e la valorizzazione della biodiversità; ii) studi di associazione “genome-wide” applicati a specie altamente produttive ed a specie selvatiche e iii) elaborazione di indici genetici e genomici innovativi mirati al benessere riproduttivo dell’animale."
     - name: Ferronato Giulia - AGR/18
       org: UniBS
       homepage: ""
