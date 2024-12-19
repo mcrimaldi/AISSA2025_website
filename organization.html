@@ -54,16 +54,23 @@ slide_id: 1
       {% if committee.members %} {% for member in committee.members %}
       <div class="card-block bg-light committee">
         <p>
+          <img
+            src="{{ member.thumbnail }}"
+            style="width: 20%; height: auto; margin-right: 10px"
+          />
           <a href="{{ member.homepage }}"><strong>{{ member.name }}</strong></a>
         </p>
+        <p
+          class="card-subtitle text-muted"
+          style="font-size: 90%; font-weight: bold"
+        >
+          {{ member.org }}
+        </p>
         {% if member.post %}
-        <p class="card-subtitle text-muted" style="font-size: 90%">
+        <p class="card-subtitle text-muted" style="font-size: 70%">
           {{ member.post }}
         </p>
         {% endif %}
-        <p class="card-subtitle text-muted" style="font-size: 90%">
-          {{ member.org }}
-        </p>
       </div>
       {% endfor %} {% else %}
       <div class="card-block bg-light committee">
