@@ -58,6 +58,7 @@
       org: Università degli Studi di Napoli Federico II
       post: ""
       homepage: https://mcrimaldi.github.io
+      thumbnail: "./assets/images/thumbs/crimaldi.jpg"
     - name: De Luca Lucia - AGR/15
       org: Università degli Studi di Napoli Federico II
       post: ""
@@ -246,4 +247,6 @@
   members:
     - name: Crimaldi Mariano - AGR/09
       org: Università degli Studi di Napoli Federico II
+      post: ""
       homepage: https://mcrimaldi.github.io
+      thumbnail: "./assets/images/thumbs/crimaldi.jpg"
