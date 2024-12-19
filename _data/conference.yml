@@ -167,8 +167,9 @@ sponsors:
   # - name:
   #   logo_path:
   #   url:
-#   - name: IEEE
-#     logo_path: ./assets/images/sponsors/ieee-logo.gif
+  # - name: IEEE
+  #   logo_path: ./assets/images/sponsors/ieee-logo.gif
+  #   url: https://www.ieee.org/
 social_media:
   facebook_link:
   twitter_link:
