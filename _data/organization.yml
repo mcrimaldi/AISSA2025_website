@@ -5,11 +5,12 @@
       org: Università degli Studi di Napoli Federico II
       post: "Ricercatrice junior (RTD-A) nel settore scientifico disciplinare AGR/01, Economia ed estimo rurale, presso il Dipartimento di Scienze Agrarie dell'Università di Napoli Federico II, dove ha anche conseguito il dottorato nel 2016 in “Gestione e Valorizzazione delle risorse agro-forestali”. È laureata in in Scienze e Tecnologie Agrarie presso l’Università di Napoli Federico II e in Management, Economics and Consumer Studies presso la Wageningen UR, Paesi Bassi. I suoi attuali interessi di ricerca sono legati al comportamento del consumatore per prodotti salutistici e sostenibili. Ha dedicato le sue attività di ricerca alla comprensione delle preferenze dei consumatori per l'olio extra vergine di oliva, considerando gli aspetti sensoriali propri dei prodotti a più alto contenuto salutistico. Nell'ambito delle diete salutari, si è occupata della percezione e del comportamento dei consumatori nei confronti delle verdure dal sapore amaro e delle possibili strategie (tradizionali e di nudging) per migliorare la dieta delle persone."
       homepage: https://www.scopus.com/authid/detail.uri?authorId=57193132271
-      thumbnail: "./assets/images/7th_iscls_logo.png"
+      thumbnail: "./assets/images/thumbs/cavallo.png"
     - name: Sannino Maura - AGR/09
       org: Università degli Studi di Napoli Federico II
-      post: ""
-      homepage:
+      post: "Ricercatore a tempo determinato nel settore scientifico disciplinare AGR/09, Meccanica Agraria, presso il Dipartimento di Agraria dell’Università degli Studi Napoli “Federico II”. Nel 2017 il PhD in Scienze delle produzioni animali e vegetali (SPVA) XXIX ciclo di dottorato, presso il Dipartimento di scienze e tecnologie per l’agricoltura, le foreste, la natura, e l’energia (DAFNE) dell’Università degli studi della Tuscia. Collaborazioni attive con CREA-IT e l’azienda “3Bee srl”. I suoi principali interessi di ricerca includono studi sulla gestione di cantieri di meccanizzazione di biomasse lignino-cellulosiche ed analisi dell’efficienza energetica delle macchine agricole; sulla caratterizzazione granulometrica di biomasse forestali e di scarti agricoli e valutazione del loro potere calorifico; sull’estrazione di olio da semi di oleaginose (Canapa, Cardo, Tabacco) ed implementazione di protocolli sperimentali di estrazione per l’analisi delle caratteristiche fisiche-chimiche sia dell’olio estratto che dei panelli, considerati residui di estrazione, sia per fini alimentari che energetici. Agricoltura di precisione: telerilevamento mediante camera multispettrale supportata da UAV (droni), per l’analisi e la realizzazione di mappe di prescrizione che evidenzino la variabilità spazio-temporale di un campo ad uso agricolo. Zootecnia di precisione: analisi dei paramenti tecnico funzionali degli AMS e degli AMF applicati alla razza bufala mediterranea."
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=56603815900&origin=recordPage
+      thumbnail: "./assets/images/thumbs/sannino.png"
 - title: Comitato Organizzatore
   column: 1
   members:
