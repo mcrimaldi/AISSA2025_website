@@ -140,20 +140,26 @@
   column: 2
   members:
     - name: Cei Leonardo - AGR/01
-      org: UniPD
-      homepage: ""
+      org: Università degli Studi di Padova
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=57195775371
+      thumbnail: "./assets/images/thumbs/cei.jpg"
+      post: "Ricercatore junior (RTD-A) presso l’Università degli Studi di Padova nel settore scientifico disciplinare AGR/01, Economia ed estimo rurale. Laureato in Scienze e Tecnologie Agrarie presso l’Università degli Studi di Firenze, ha conseguito il Dottorato di ricerca in “Land, Environment, Resources and Health” presso l’Università degli Studi di Padova. I suoi principali interessi di ricerca sono i sistemi di qualità nel settore agroalimentare, con particolare riferimento ai segni di qualità comunitari, quali indicazioni geografiche, agricoltura biologica e prodotto di montagna. Inoltre, ha lavorato sull’analisi di sistemi agricoli locali, principalmente in un’ottica di valorizzazione della filiera e delle produzioni agricole, attività attraverso la quale ha partecipato a gruppi di ricerca nazionali ed internazionali."
     - name: Verdi Leonardo - AGR/02
       org: Università degli Studi di Firenze
       homepage: https://www.scopus.com/authid/detail.uri?authorId=57204481235
       thumbnail: "./assets/images/thumbs/verdi.jpg"
       post: "Ricercatore a tempo determinato di tipo A nel settore scientifico disciplinare AGR/02, Agronomia e Coltivazioni Erbacee, presso il Dipartimento di Scienze e Tecnologie Agrarie, Alimentari, Ambientali e Forestali (DAGRI) dell’Università degli Studi Firenze. Nel 2018 ha ottenuto il Dottorato di Ricerca in Scienze Agrarie e Ambientali presso la stessa Università. I suoi principali ambiti di ricerca includono l’agronomia e l’agrometeorologia, la fertilizzazione organica, le emissioni di gas serra dal suolo agricolo, la coltivazione di cereali da granella e lo studio del ruolo dell'agricoltura nella mitigazione dei cambiamenti climatici."
     - name: Ronga Domenico - AGR/02
-      org: UniSA
-      homepage: ""
+      org: Università degli Studi di Salerno
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=55772858300
+      thumbnail: "./assets/images/thumbs/ronga.jpg"
+      post: "Professore Associato nel settore scientifico disciplinare AGR/02, Agronomia e Coltivazioni Erbacee, presso il Dipartimento di Farmacia dell’Università degli Studi di Salerno. Nel 2013 ha ottenuto il Dottorato di Ricerca in Scienze, tecnologie e biotecnologie agro-alimentari presso l’Università degli Studi di Modena e Reggio Emilia. Premi: “Giuseppe La Malfa”, concorso SOI giovane ricercatore 2020; Sudinnova 2017; Laura Bacci 2014, per la migliore tesi di dottorato. Collaborazioni attive con Aarhus University, CREA, CRPA, CIB, WPTC. I suoi principali interessi di ricerca includono studi per sviluppare e adottare tecniche innovative e ecosostenibili nei sistemi colturali convenzionali e a basso input, indagando le diverse risposte agronomiche delle colture anche in termini fisiologici. In particolare, le ricerche riguardano la valorizzazione di digestati, compost, tè di compost, microrganismi e biostimolanti ottenuti da coprodotti agroindustriali per la produzione di colture erbacee e per migliorarne la tolleranza agli stress abiotici anche mediante approcci di agricoltura digitale e di precisione."
     - name: Pulina Antonio - AGR/02
-      org: UniSS
-      homepage: ""
-    - name: ferrero Francesco - AGR/02
+      org: Università degli Studi di Sassari
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=57195265286
+      thumbnail: "./assets/images/thumbs/pulina.jpg"
+      post: "Dottore di Ricerca in Scienze Agrarie dal 2017, è attualmente Ricercatore a tempo determinato (RTDa) in Agronomia e coltivazioni erbacee (SSD AGR/02) presso il Dipartimento di Agraria dell’Università degli Studi di Sassari. Attualmente le sue attività sono condotte nel contesto del programma PON-AIM (Attraction and International Mobility), finanziato dall’Unione Europea attraverso il Ministero dell’Università e della Ricerca, nel cui contesto ha intrapreso collaborazioni con la Purdue Universitiy (IN, USA), l’Università dell’Extremadura (SP) e la Aarhus University (DK). Le sue ricerche riguardano gli effetti della gestione agronomica sulla sostenibilità e sull’apporto dei servizi ecosistemici nei sistemi agrosilvopastorali mediterranei, con particolare riguardo agli aspetti quantitativi e qualitativi della produzione dei pascoli e al ciclo del C nell’agroecosistema, integrando attività sperimentale di campo con strumenti di remote sensing e approcci di tipo modellistico. Dal 2015 è membro della Società Italiana di Agronomia (SIA)."
+    - name: Ferrero Francesco - AGR/02
       org: UniTO
       homepage: ""
     - name: Lo Piccolo Ermes - AGR/03
@@ -165,37 +171,53 @@
       org: UniMI
       homepage: ""
     - name: Sala Giovanna - AGR/05
-      org: UniPA
-      homepage: ""
+      org: Università degli Studi di Palermo
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=57188704207
+      thumbnail: "./assets/images/thumbs/sala.jpg"
+      post: "Ricercatore (RTD-A) nel settore scientifico disciplinare AGR/05, Assestamento Forestale e Selvicoltura, presso il Dipartimento di Scienze Agrarie, Alimentati e Forestali, dell’Università degli Studi di Palermo. Nel 2016 ha conseguito il Dottorato di Ricerca in “Scienze Agrarie e Forestali” Indirizzo Sistemi Arborei Agrari e Forestali presso l’ Università di Palermo. Nel 2021 ha ricevuto il premio miglior contribuito Giovane Socio SIEP conferito dalla Società Italiana di Ecologia del Paesaggio SIEP-IALE. È stata junior researcher, presso Peoples’ Friendship University of Russia di Mosca. I suoi principali interessi di ricerca riguardano le risposte fisiologiche delle piante ai cambiamenti climatici attraverso analisi dendrometriche, l’uso di strumenti innovativi di monitoraggio in continuo che consentono di comprendere nel breve periodo le risposte delle piante all’ambiente."
     - name: Niccoli Francesco - AGR/05
       org: UniCAMPANIA
       homepage: ""
     - name: Laschi Andrea - AGR/06
-      org: UniPA
-      homepage: ""
+      org: Università degli Studi di Palermo
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=57132829300
+      thumbnail: "./assets/images/thumbs/laschi.jpg"
+      post: "Professore Associato nel settore scientifico disciplinare AGR/06, “tecnologia del legno e utilizzazioni forestali”, presso il Dipartimento di Scienze Agrarie, Alimentari e Forestali dell’Università degli Studi di Palermo. Nel 2016 ha ottenuto il Dottorato di Ricerca in “Gestione sostenibile delle risorse agrarie, forestali e alimentari” presso l’Università degli Studi di Firenze. Premio per la miglior tesi di dottorato nel settore scientifico disciplinare AGR/06 bandito da DAGRI – UNIFI e SISEF, con il patrocinio del MIPAAF e dell’AISF - Accademia Italiana di Scienze Forestali. Attualmente Deputy Coordinator del Research Group 3.05.00 “Forest Operation Ecology”, International Union of Forest Research Organizations – IUFRO; socio corrispondente AISF; socio SISEF e UNIF. I suoi principali interessi di ricerca riguardano la filiera bosco-legno, in particolare la pianificazione, la sicurezza e gli impatti dei lavori di utilizzazione forestale e delle opere connesse, oltre alla valorizzazione degli assortimenti legnosi e la valutazione del ciclo di vita dei prodotti derivati."
     - name: Cetera Paola - AGR/06
-      org: UniSS
-      homepage: ""
+      org: Università degli Studi di Sassari
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=56383888100
+      thumbnail: "./assets/images/thumbs/cetera.jpg"
+      post: "Dal 2021 è ricercatrice (RTD-A) nel settore scientifico disciplinare AGR/06, Tecnologia del Legno e Utilizzazioni Forestali, presso il Dipartimento di Agraria dell’Università degli Studi di Sassari. Nel 2019 ha ottenuto il Dottorato di Ricerca in Scienze e Tecnologie Agrarie, Forestali e degli Alimenti presso l’Università degli Studi della Basilicata e nel 2017 ha svolto attività di ricerca presso l’Institute of Wood Technology (BOKU, Vienna). Dopo aver conseguito la laurea in Scienze Forestali e Ambientali ha lavorato presso il DAGRI dell’Università di Firenze, il CREA-IT di Monterotondo (Roma) e il CNR-IBE (ex IVALSA) di San Michele all’Adige (TN). Nell’ambito del SSD AGR/06, riceve prima il Premio “Nardi Berti” come miglior articolo e poi il premio SISEF-DAGRI, con il patrocinio del MIPAAF e dell’Accademia Italiana di Scienze Forestali, per la miglior tesi di dottorato. Ha svolto numerosi studi legati agli effetti dei processi di trattamento termico applicati al legno. Attualmente svolge attività di ricerca legata principalmente alla valorizzazione delle specie legnose, attraverso l’ottenimento dei metaboliti secondari ad elevata attività antiossidante e indaga le cause della presenza di TCA nel sughero."
     - name: Checcucci Alice - AGR/07
       org: Università degli Studi di Firenze
       homepage: https://www.scopus.com/authid/detail.uri?authorId=56436203000
       thumbnail: "./assets/images/thumbs/checcucci.jpg"
       post: "Ricercatrice presso il Dipartimento di Scienze e Tecnologie Agrarie, Alimentari, Ambientali e Forestali dell’Università degli Studi di Firenze nel SSD AGR/07, Genetica Agraria. Nel 2017 ha ottenuto il Dottorato di Ricerca in Genetica e Microbiologia, presso l’Università degli Studi di Firenze, nello stesso anno il premio dell’Associazione Genetica Italiana come miglior tesi di dottorato. Nel 2018 è stata premiata dalla FEMS (Federation of European Microbiological Societies) con un Research Travel Grant per trascorrere un periodo di ricerca presso il CNRS di Marsiglia (Francia), e con una borsa annuale della Fondazione Adriano-Buzzati Traverso. Ha svolto attività di ricerca presso il Dipartimento di Biologia dell’Università degli Studi di Firenze e il Dipartimento di Scienze e Tecnologie Agro-Alimentari dell’Università di Bologna. I suoi principali interessi di ricerca includono lo studio dell’interazione pianta-microrganismi per il miglioramento della produttività in campo agrario, la caratterizzazione dell’attività metabolica di cellule vegetali, e l’identificazione dei geni responsabili della resistenza a stress nelle piante."
-    - name: Marzano Stefania - AGR/07
-      org: UniBAS
-      homepage: ""
+    - name: Marzario Stefania - AGR/07
+      org: Università degli Studi della Basilicata
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=57204186622
+      thumbnail: "./assets/images/thumbs/marzario.jpg"
+      post: "Assegnista di ricerca nel settore scientifico disciplinare AGR/07, Genetica Agraria, presso la Scuola di Scienze Agrarie, Forestali, Alimentari ed Ambientali dell’Università degli Studi della Basilicata. Nel 2011 ha conseguito la laurea magistrale in Scienze e Tecnologie Agrarie presso l’Università degli Studi della Basilicata e nel 2016, presso il Dipartimento di Scienze dello stesso ateneo, ha conseguito il Dottorato di Ricerca Internazionale in “Bioecosistemi e Biotecnologie”. Dal 2016 ha svolto con continuità attività di ricerca come borsista e assegnista di ricerca in Genetica Agraria presso la Scuola di Scienze Agrarie, Forestali, Alimentari ed Ambientali dell’Università degli Studi della Basilicata. I suoi principali interessi di ricerca includono la caratterizzazione e conservazione delle risorse genetiche di cereali e leguminose per favorirne l’uso sostenibile e promuovere l’agrobiodiversità."
     - name: Lavrnic Stevo - AGR/08
-      org: UniBO
-      homepage: ""
+      org: Alma Mater Studiorum - Università di Bologna
+      homepage: https://www.scopus.com/results/authorNamesList.uri?name=name&st1=lavrnic&st2=stevo&origin=searchauthorlookup
+      thumbnail: "./assets/images/thumbs/lavrnic.jpg"
+      post: "Stevo Lavrnić è ingegnere ambientale ed è attualmente ricercatore senior nel settore AGR/08 (Idraulica agraria e sistemazioni idraulico-forestali) presso l’Alma Mater Studiorum - Università di Bologna. Dal 2017 presso il Dipartimento di Scienze e Tecnologie Agro-Alimentari svolge la sua attività di ricerca focalizzandosi sulla gestione e l’uso sostenibile delle risorse idriche in agricoltura, con particolare riferimento alle soluzioni naturali, e al riutilizzo delle acque reflue. Si laurea presso l’Università di Novi Sad (Serbia), consegue la laurea magistrale all’IHE Delft Institute for Water Education (Paesi Bassi) e il dottorato di ricerca all’Università di Cadice (Spagna). Ha partecipato a diversi progetti di ricerca regionali, nazionali ed internazionali ricoprendo anche i ruoli di Task e WP leader. È stato membro del comitato organizzatore, scientifico o di programma in oltre 10 convegni internazionali e svolge attività di revisore per diverse riviste scientifiche internazionali. Attualmente è membro del management committee dell’IWA (International Water Association) Specialist Group on Water Reuse e Specialist Group on Small Water and Wastewater Systems."
     - name: Ricci Giovanni Francesco - AGR/08
-      org: UniBA
-      homepage: ""
+      org: Università degli Studi di Bari
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=57200616783
+      thumbnail: "./assets/images/thumbs/ricci.jpg"
+      post: "Ricercatore a tempo determinato di tipo B nel settore scientifico disciplinare AGR/08, Idraulica Agraria e Sistemazioni Idraulico-forestali, presso il Dipartimento di Scienze del Suolo della Pianta e Degli Alimenti (DiSSPA) dell’Università degli Studi di Bari Aldo Moro. Nel 2019 ha conseguito il titolo di Dottore di Ricerca in Biodiversità, Agricoltura e Ambiente presso la stessa Università. Nel 2021 ha vinto il Premio AIIA per Giovani ricercatori per il settore scientifico disciplinare AGR/08. La sua attività di ricerca include tematiche quali l’analisi di dati e la modellazione idrologica a scala di bacino idrografico e l&#39;analisi dell’effetto di pratiche di gestione sostenibile sul trasporto solido e sul trasporto di nutrienti. È autore di numerosi articoli pubblicati su riviste indicizzate ISI SCOPUS."
     - name: Varani Massimiliano - AGR/09
-      org: UniBO
-      homepage: ""
+      org: Alma Mater Studiorum – Università di Bologna
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=57193343801
+      thumbnail: "./assets/images/thumbs/varani.jpg"
+      post: "Ricercatore junior (RTD-A) nel settore scientifico disciplinare AGR/09, Meccanica Agraria, presso il Dipartimento di Scienze e Tecnologie Agro-Alimentari dell’Alma Mater Studiorum – Università di Bologna. Nel 2018 ha ottenuto il Dottorato di Ricerca in Scienze e Tecnologie Agrarie, Ambientali e Alimentari presso Alma Mater Studiorum – Università di Bologna. Ha vinto il premio “Guarnieri-Montel” per la migliore tesi di dottorato XXX ciclo del settore AGR/09 all’interno del 1° Workshop sull’Innovazione nella Meccanica e nell’Impiantistica Applicate ai Biosistemi Agro-Alimentari e Forestali. I suoi principali interessi di ricerca includono l’analisi dell’efficienza di trattori e macchine agricole, implementazione di soluzioni elettrificate in ambito agricolo per abbatterne l’impatto ambientale e metodi per analizzare i dati di flotte di macchine agricole tramite rete CAN-Bus."
     - name: Santolini Enrica - AGR/10
-      org: UniBO
-      homepage: ""
+      org: Alma Mater Studiorum – Università di Bologna
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=57193406635
+      thumbnail: "./assets/images/thumbs/santolini.jpg"
+      post: "Ricercatore junior (RTD-A) nel settore scientifico disciplinare AGR/10, Costruzioni rurali e territorio agroforestale, presso il Dipartimento di Scienze e Tecnologie Agro-Alimentari (DISTAL) dell’Università di Bologna. Attualmente è candidata nel Dottorato di Ricerca in Salute, Sicurezza e Sistemi del verde dell’Università di Bologna e, nel 2019, ha ottenuto il Dottorato di Ricerca in Ingegneria Agraria presso l’Università di Bologna. I suoi principali interessi di ricerca includono aspetti progettuali, energetici e ambientali relativi a diverse tipologie di costruzioni rurali (serre, cantine, edifici ad uso zootecnico). In tali tipologie di edifici, ha approfondito analisi CFD e di monitoraggio ambientale, così come aspetti energetici e di sostenibilità. È membro del gruppo di ricerca dell'Università di Bologna nell'ambito del progetto di ricerca PRIN 2017 in corso Smart dairy farming: innovative solutions to improve herd productivity e del progetto PRIMA Self-enough Integrated Multi-Trophic AquaPonic systems for improving food production sustainability and brackish water use and recycling (SIMTAP). È membro dell'Associazione Italiana di Ingegneria Agraria (AIIA), della Società Europea degli Ingegneri Agrari (EurAgEng) e della Commissione Internazionale di Ingegneria Agraria (CIGR)."
     - name: Becchimanzi Andrea - AGR/11
       org: UniNA
       homepage: ""
@@ -209,14 +231,18 @@
       org: CNR
       homepage: ""
     - name: Garau Matteo - AGR/13
-      org: UniSS
-      homepage: ""
+      org: Università degli Studi di Sassari
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=57210124711
+      thumbnail: "./assets/images/thumbs/garau.jpg"
+      post: "Ricercatore a tempo determinato di tipo A nel settore scientifico disciplinare AGR/13, Chimica Agrarai, presso il Dipartimento di Agraria dell’Università degli Studi di Sassari. Nel 2021 ha ottenuto il Dottorato di Ricerca in Scienze Agrarie presso l’Università degli Studi di Sassari, vincitore premio SICA per la migliore tesi di dottorato edizione 2020-2021 sulla tematica “Innovazione e Tecnologie nel sistema suolo-pianta per uno sviluppo sostenibile e una agricoltura responsabile”. Collaborazioni attive con l’University of Reading (UK) e il KNUST (Ghana). I suoi principali interessi di ricerca includono studi per sviluppare adottare tecniche innovative e ecosostenibili per il recupero funzionale di suoli marginali, contaminati e degradati. In particolare, le ricerche riguardano l’applicazione di ammendanti organici e consorzi microbici a suoli contaminati per aumentare l’efficienza delle tecniche di fitorisanamento; e la valorizzazione di sottoprodotti agro-industriali per la produzione di ammendanti organici da applicare a suoli degradati per incrementare le produzioni agrarie ecosostenibili specialmente in Paesi in via di sviluppo."
     - name: Giannetta Beatrice - AGR/13
       org:
       homepage: ""
     - name: Ceccanti Costanza - AGR/13
-      org: UniPI
-      homepage: ""
+      org: Università di Pisa
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=57203821380
+      thumbnail: "./assets/images/thumbs/ceccanti.jpg"
+      post: "Ricercatore junior (RTD-A) nel settore scientifico disciplinare AGR/13, Chimica Agraria, presso il Dipartimento di Scienze Agrarie, Alimentari e Agro-ambientali dell’Università di Pisa. Nel 2020 ha ottenuto il Dottorato di Ricerca in Scienze Agrarie, Alimentari e Agro-ambientali presso l’Università di Pisa. Collaborazioni attive con Università degli Studi di Milano Statale, CREA Sede di Bologna, Istituto Politecnico di Braganza, Università Cattolica del Sacro Cuore – Campus di Piacenza e Cremona, Università del Salento e Università Campus Bio-medico di Roma. I suoi principali interessi di ricerca includono studi mirati all’incremento della produzione nonché della qualità nutrizionale e nutraceutica di prodotti ortofrutticoli attraverso tecniche innovative agronomiche (per es. intercropping) o tecnologiche (per es. fotomodulazione). Inoltre, recentemente, i suoi interessi di ricerca includono anche lo studio delle risposte del sistema antiossidante delle piante sottoposte a stress abiotici quali lo stress salino o eccesso/carenza nell’uptake di azoto."
     - name: De Feudis Mauro - AGR/14
       org: UniBO
       homepage: ""
@@ -229,8 +255,10 @@
       org: UniBO
       homepage: ""
     - name: Salvetti Elisa - AGR/16
-      org: UniVR
-      homepage: ""
+      org: Università di Verona
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=55444293200
+      thumbnail: "./assets/images/thumbs/salvetti.jpg"
+      post: "Elisa Salvetti è RTDB nel settore scientifico disciplinare AGR/16, Microbiologia Agraria, presso il Dipartimento di Biotecnologie, Università di Verona. Nel 2012 ha conseguito il titolo di Dottore di Ricerca in Biotecnologie Agro- Industriali presso l’Università di Verona con un progetto finanziato dall’azienda Yakult Europe BV ed è stata beneficiaria di un finanziamento dalla Regione Veneto che le ha permesso di collaborare con Microbion srl e successivamente diventarne socia. Nel 2015 è stata beneficiaria di una borsa biennale Horizon 2020 Marie Skłodowska Curie presso l’APC Microbiome Institute, University College Cork (Irlanda), in collaborazione con l’azienda Chr. Hansen A/S (Danimarca), presso la quale è stata visiting scientist. Dal 2017 al 2021 ha lavorato sia come Assegnista di Ricerca presso l’Università di Verona che come consulente per aziende del settore alimentare e salutistico. I principali interessi di ricerca riguardano la biodiversità microbica, principalmente associata agli alimenti fermentati, e l’analisi della sicurezza di microrganismi di interesse industriale e alimentare."
     - name: Farda Beatrice - AGR/16
       org: UniVAQ
       homepage: ""
@@ -249,8 +277,10 @@
       org: UniNa
       homepage: ""
     - name: Birolo Marco - AGR/20
-      org: UniPD
-      homepage: ""
+      org: Università degli Studi di Padova
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=55846344200
+      thumbnail: "./assets/images/thumbs/birolo.jpg"
+      post: "Ricercatore a tempo determinato di tipo B nel settore scientifico disciplinare AGR/20, Zoocolture, presso il Dipartimento di Agronomia Animali Alimenti Risorse Naturali e Ambiente dell’Università degli Studi di Padova. Nel 2016 ha ottenuto il Dottorato di Ricerca in Animal and Food Scieince presso l’Università degli Studi di Padova. Premi: “Biodiversità e Sostenibilità: due paradigmi nei settori Agricolo e Forestale”, migliore articolo da giovane ricercatore, Accademia dei Georgofili - Sezione Nord Est, Padova, 2018; migliore articolo presentato da giovane ricercatore nella sessione “Feeds and Feeding”, 11th World Rabbit Congress, Quingdao (China), 2016. Collaborazioni attive con Università e centri di ricerca italiani e stranieri. I suoi principali interessi di ricerca includono: strategie nutrizionali e sistemi di alimentazione per migliorare la salute e le prestazioni dei conigli in accrescimento e ridurre l'impatto ambientale degli allevamenti; sistemi di stabulazione alternativi per migliorare il benessere delle coniglie fattrici; tecniche di allevamento e alimentazione per migliorare la salute, le prestazioni, il benessere, la qualità della carne e la sostenibilità nella produzione di pollo da carne; sviluppo di sistemi di stabulazione cage-free per galline ovaiole; sviluppo di sistemi integrati di acquaponica; studio di materie prime alternative e sostenibili per l'alimentazione di conigli, polli e pesci."
 
 - title: Webmaster
   column: 1
