@@ -32,9 +32,13 @@ slide_id: 4
         </p>
         {% endif %}
         <h6 class="text-info">Topic</h6>
+        Sebbene la partecipazione sia aperta a tutti i settori agro-zootecnici, alimentari ed ambientali, avendo come principale obiettivo quello di creare una rete tra tutti gli accademici del settore,
+        le discussioni scientifiche si focalizzeranno sugli argomenti di
+        seguito elencati:
+
         <ul>
             {% for topic in site.data.program.topics %}
-            <li>{{ topic.title }} - {{ topic.description }}</li>
+            <li><strong>{{ topic.title }}</strong> - {{ topic.description }}</li>
             {% endfor %}
         </ul>
         <h6 class="text-info">Programma</h6>
