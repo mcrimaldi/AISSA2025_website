@@ -36,11 +36,11 @@ slide_id: 4
         le discussioni scientifiche si focalizzeranno sugli argomenti di
         seguito elencati:
 
-        <ul>
+        <ol>
             {% for topic in site.data.program.topics %}
             <li><strong>{{ topic.title }}</strong> - {{ topic.description }}</li>
             {% endfor %}
-        </ul>
+        </ol>
         <h6 class="text-info">Programma</h6>
         {% if site.data.program.schedule.live == true %}
         {% for day in site.data.schedule.program_slots %}
