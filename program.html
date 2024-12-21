@@ -41,6 +41,7 @@ slide_id: 4
             <li><strong>{{ topic.title }}</strong> - {{ topic.description }}</li>
             {% endfor %}
         </ol>
+        
         <h6 class="text-info">Programma</h6>
         {% if site.data.program.schedule.live == true %}
         {% for day in site.data.schedule.program_slots %}
