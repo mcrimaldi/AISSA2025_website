@@ -32,7 +32,11 @@ slide_id: 4
         </p>
         {% endif %}
         <h6 class="text-info">Topic</h6>
-        
+        <ul>
+            {% for topic in site.data.program.topics %}
+            <li>{{ topic }}</li>
+            {% endfor %}
+        </ul>
         <h6 class="text-info">Programma</h6>
         {% if site.data.program.schedule.live == true %}
         {% for day in site.data.schedule.program_slots %}

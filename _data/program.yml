@@ -1,3 +1,12 @@
+topics:
+  - title: "Innovazione e transizione sostenibile"
+    description: "Politiche e processi di resilienza dei sistemi agrosilvo-pastorali, management aziendale e ruolo e comportamento dei consumatori"
+  - title: "Pratiche agro-ecologiche e forestali sostenibili"
+    description: "Tutela della biodiversità, carbon farming, impatto sui sistemi socio-ecologici e mantenimento della fertilità dei suoli, riduzione dell’uso di pesticidi"
+  - title: "Nuove tecnologie applicate al ciclo produttivo"
+    description: "Agricoltura e allevamento di precisione, smart agriculture, precision forestry, climate smart forestry, food technology, new product development, mild technologies, Industria 4.0, Artificial Intelligence"
+
+
 online:
   live: false
   record: false
