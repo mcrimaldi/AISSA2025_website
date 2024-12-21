@@ -5,7 +5,16 @@ topics:
     description: "Tutela della biodiversità, carbon farming, impatto sui sistemi socio-ecologici e mantenimento della fertilità dei suoli, riduzione dell’uso di pesticidi"
   - title: "Nuove tecnologie applicate al ciclo produttivo"
     description: "Agricoltura e allevamento di precisione, smart agriculture, precision forestry, climate smart forestry, food technology, new product development, mild technologies, Industria 4.0, Artificial Intelligence"
-
+  - title: "Riduzione degli sprechi"
+    description: "Economia circolare e up-cycling, gestione della shelf-life, smart packaging, bioplastiche, , controllo di qualità e sicurezza dei prodotti agro-alimentari"
+  - title: "Biotecnologie e biodiversità"
+    description: "Miglioramento genetico, recupero di varietà antiche vegetali e di razze locali, innovazione varietale, biostimolanti, produzione di sostanze nutraceutiche"
+  - title: "Microbiologia applicata"
+    description: "Mitigazione degli impatti antropici, valorizzazione dei sottoprodotti agro-industriali, bioinoculanti, sviluppo di comunità microbiche sintetiche sicure, interazioni ospite-microbiota, bioraffineria"
+  - title: "Produzioni animali sostenibili"
+    description: "Miglioramento del benessere animale, riduzione dell'uso degli antimicrobici, mitigazione dell'impatto ambientale degli allevamenti"
+  - title: "Gestione sostenibile del territorio agricolo e forestale"
+    description: "Risorse idriche e suolo, protezione dal dissesto geo-idrologico, conservazione della salute del suolo, impatto sull'economia dei territori"
 
 online:
   live: false
