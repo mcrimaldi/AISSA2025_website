@@ -33,8 +33,9 @@
       homepage: ""
     - name: Becchimanzi Andrea - AGR/11
       org: Università degli Studi di Napoli Federico II
-      post: ""
-      homepage: ""
+      post: "Ricercatore (RTDa) in Entomologia (AGR/11) presso il Dipartimento di Agraria dell'Università di Napoli Federico II. Ha conseguito il Dottorato di Ricerca in Biotecnologie presso l'Università di Napoli nel 2019, con la tesi Exploring honeybee-mite immune interactions for developing RNAi based control technologies of Varroa destructor. Durante il dottorato, ha trascorso sei mesi nel laboratorio del Dr. Alan Bowman presso l'Università di Aberdeen (Scozia). L’argomento principale della sua ricerca è lo studio dell’immunità e della fisiologia degli insetti in risposta a interazioni antagoniste. Integra analisi fisiologiche, molecolari e bioinformatiche per l’identificazione di nuovi strumenti di biocontrollo e lo sviluppo di approcci bioispirati per il controllo degli insetti dannosi."
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=57193882697
+      thumbnail: "./assets/images/thumbs/becchimanzi.jpg"
     - name: Belfiore Oscar Rosario - AGR/08
       org: Università degli Studi di Napoli Federico II
       post: ""
