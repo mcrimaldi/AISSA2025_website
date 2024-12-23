@@ -41,8 +41,9 @@
       homepage: ""
     - name: Borrello Massimiliano - AGR/01
       org: Università degli Studi di Napoli Federico II
-      post: ""
+      post: "Ricercatore presso il Dipartimento di Agraria dell’Università degli Studi di Napoli Federico II (UNA, Italia), dove è professore di Economia Agraria. Ha conseguito un master in Economia e Politica Agraria (UNA, Italia, finanziato dal MIPAAF) e un dottorato di ricerca in Valorizzazione e Gestione delle Risorse Agro-Forestali (UNA, Italia). È anche docente di Economia Circolare nel master in Economia e Politica Agraria (UNA, Italia) ed è stato docente di Design Industriale Rigenerativo nell’ambito del programma di dottorato della Corvinus University (Ungheria). I suoi interessi scientifici si concentrano sulla transizione sostenibile nel settore agroalimentare e sulle innovazioni basate sulla bioeconomia circolare. Ha collaborato a diversi progetti di ricerca ed è stato PI di un progetto riguardante l'accettazione da parte dei consumatori di uve resistenti ai funghi, finanziato dall'Organizzazione Internazionale della Vigna e del Vino (OIV). È autore di 29 articoli su riviste ISI/Scopus."
       homepage: ""
+      thumbnail: "./assets/images/thumbs/borrello.jpg"
     - name: Califano Giovanbattista - AGR/01
       org: Università degli Studi di Napoli Federico II
       post: ""
@@ -230,8 +231,10 @@
       org: UniNA
       homepage: ""
     - name: Brandano Andrea - AGR/11
-      org: UniNA
-      homepage: ""
+      org: Università degli Studi di Sassari
+      post: "Assegnista di ricerca nel settore scientifico disciplinare AGRI-05/B, Patologia Vegetale, presso il Dipartimento di Agraria dell’Università degli Studi di Sassari. Nel 2023 ha conseguito il titolo di Dottore di Ricerca in Scienze Agrarie presso lo stesso Ateneo. In questi anni ha partecipato a vari progetti di ricerca nazionali ed internazionali, che gli hanno permesso di avviare collaborazioni con diversi gruppi di ricerca esteri, quali Mendel University in Brno (Repubblica Ceca), Murdoch University (Perth, Australia) e The James Hutton Institute in Dundee (UK). I suoi interessi di ricerca riguardano principalmente la diversità, filogenesi e strategie di controllo di oomiceti e funghi patogeni, oltre che l’utilizzo di tecniche innovative di diagnostica, monitoraggio e biologia molecolare. Dal 2022 è membro della Società Italiana di Patologia Vegetale (SIPAV)."
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=57219115777
+      thumbnail: "./assets/images/thumbs/brandano.jpg"
     - name: Lazazzara Valentina - AGR/12
       org: CNR
       homepage: ""
