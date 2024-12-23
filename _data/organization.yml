@@ -115,8 +115,9 @@
       homepage: ""
     - name: Savy Davide - AGR/13
       org: Università degli Studi di Napoli Federico II
-      post: ""
+      post: "Davide Savy è un ricercatore presso il Dipartimento di Agraria dell'Università di Napoli Federico II. Le sue principali attività di ricerca sono focalizzate sulla valorizzazione di residui agricoli e industriali per ottenere nuovi biostimolanti per la crescita vegetale o nuovi materiali (nanoparticelle, idrogel, rivestimenti) per il rilascio di sostanze bioattive. La sua ricerca si concentra anche sullo studio delle caratteristiche chimiche di questi materiali a livello molecolare, per comprenderne le proprietà chimico-fisiche e biologiche. In tal modo, la loro struttura e conseguenti le caratteristiche biologiche/di rilascio possono essere previste e pianificate."
       homepage: ""
+      thumbnail: "./assets/images/thumbs/savy.jpg"
     - name: Scotto di Perta Ester - AGR/10
       org: Università degli Studi di Napoli Federico II
       post: ""
