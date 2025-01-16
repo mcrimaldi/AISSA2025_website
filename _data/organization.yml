@@ -54,8 +54,9 @@
       homepage: ""
     - name: Caporale Antonio Giandonato - AGR/13
       org: Università degli Studi di Napoli Federico II
-      post: ""
-      homepage: ""
+      post: "Professore Associato di Chimica Agraria (AGRI-06/B) del Dipartimento di Agraria - Università di Napoli Federico II. Titolare degli insegnamenti: i) Fondamenti di Chimica e Biochimica Agraria (9 CFU), ii) Autenticazione e tracciabilità alimentare basata su indicatori suolo-dipendenti (5 CFU). Coordinatore del progetto PRIN 2022 HealthySoil4QualityFood (https://www.healthysoilhealthyfood.it/), membro UniNA del PNRR Agritech (spoke 3, task 3.2.1), responsabile di progetto FRA UniNA (bando 2020, linea A) e titolare di Finanziamento delle Attività Base di Ricerca (FFABR, anno 2017). Ha svolto periodi di ricerca e formazione negli Stati Uniti (nel 2010) presso la Montclair State University (NJ, USA) ed in Spagna (nel 2017) presso l'Enriched Stable Isotopes - University of Oviedo. Nel 2018 ha partecipato da docente al programma Erasmus+ presso la Mendel University in Brno (Repubblica Ceca). Membro dell'Editorial Board di Current Pollution Reports (Springer Nature). Le sue attività di ricerca sono principalmente focalizzate sulla geochimica, bioaccessibilità e mobilità di nutrienti e contaminanti nel sistema suolo-pianta, gestione sostenibile del suolo e food safety in aree agricole urbane, caratterizzazione di substrati di coltivazione per agricoltura spaziale, autenticazione alimentare mediante indicatori geochimici e purificazione di acque contaminate mediante adsorbenti a basso costo."
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=36080509900
+      thumbnail: "./assets/images/thumbs/caporale.jpg"
     - name: Cirillo Valerio - AGR/02
       org: Università degli Studi di Napoli Federico II
       post: ""
@@ -114,9 +115,10 @@
       homepage: https://www.linkedin.com/in/anna-russo-spena-544093220/
       thumbnail: "./assets/images/thumbs/russospena.jpg"
     - name: Sala Giovanna - AGR/05
-      org: Università degli Studi di Napoli Federico II
-      post: ""
-      homepage: ""
+      org: Università degli Studi di Palermo
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=57188704207
+      thumbnail: "./assets/images/thumbs/sala.jpg"
+      post: "Ricercatore (RTD-A) nel settore scientifico disciplinare AGR/05, Assestamento Forestale e Selvicoltura, presso il Dipartimento di Scienze Agrarie, Alimentati e Forestali, dell’Università degli Studi di Palermo. Nel 2016 ha conseguito il Dottorato di Ricerca in “Scienze Agrarie e Forestali” Indirizzo Sistemi Arborei Agrari e Forestali presso l’ Università di Palermo. Nel 2021 ha ricevuto il premio miglior contribuito Giovane Socio SIEP conferito dalla Società Italiana di Ecologia del Paesaggio SIEP-IALE. È stata junior researcher, presso Peoples’ Friendship University of Russia di Mosca. I suoi principali interessi di ricerca riguardano le risposte fisiologiche delle piante ai cambiamenti climatici attraverso analisi dendrometriche, l’uso di strumenti innovativi di monitoraggio in continuo che consentono di comprendere nel breve periodo le risposte delle piante all’ambiente."
     - name: Saulino Luigi - AGR/05
       org: Università degli Studi di Napoli Federico II
       post: ""
@@ -294,11 +296,15 @@
       org: UniBS
       homepage: ""
     - name: Lambiase Claudia - AGR/19
-      org: UniNA
-      homepage: ""
+      org: Università degli Studi di Napoli Federico II
+      post: "Borsista di ricerca in Zootecnia speciale (AGRI 09/C) presso il Dipartimento di Agraria dell’università Federico II di Napoli. Presso lo stesso dipartimento ha conseguito il titolo di Dottore di Ricerca in Sustainable Agricultural and Forestry Systems and Food Security (XXXVI ciclo) con una tesi dal titolo “New strategy to improve animal welfare and product quality using different feed supplementation”. Durante il periodo del dottorato ha svolto un periodo di studio e applicazione di nuove metodologie di analisi degli alimenti, ed in particolar modo della carne, presso il Centro Tecnolóxico da Carne (CTC), Ourense (Spagna), collaborando attivamente con il laboratorio di chimica-fisica. I suoi attuali interessi di ricerca sono legati alla qualità nutrizionale e sensoriale della carne e dei prodotti di origine animale come uova, latte, e formaggi."
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=57226633870
+      thumbnail: "./assets/images/thumbs/lambiase.jpg"
     - name: Serrapica Francesco - AGR/18
-      org: UniNa
-      homepage: ""
+      org: Università degli Studi di Napoli Federico II
+      post: "Ricercatore a tempo determinato (RTDB) in Nutrizione e Alimentazione Animale (AGRI 09/B) presso il Dipartimento di Agraria dell’Università Federico II di Napoli. Nel 2018 ha conseguito il titolo di Dottore di Ricerca in Scienze e Tecnologie Agrarie, Forestali e degli Alimenti (ciclo XXX), indirizzo Animal, Plant and Environmental Sciences (PAES) presso l’università della Basilicata. Dal 2022 è membro dell’Associazione per la Scienza e le Produzioni Animali (ASPA), nonché componente della Commissione ModNut-ASPA sulla modellizzazione nutrizionale applicata alle specie di interesse zootecnico. Ad oggi è titolare degli insegnamenti di “Tecnologie Innovative per una Zootecnia Sostenibile” e Valorizzazione e Sostenibilità dell’Allevamento Bufalino. I suoi principali interessi di ricerca riguardano le relazioni tra nutrizione e qualità dei prodotti di origine animale, la valutazione dei sottoprodotti agro-industriali come potenziali alimenti per il bestiame, la valutazione dell’impatto ambientale dei sistemi di allevamento e delle relative strategie di mitigazione."
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=57200033961
+      thumbnail: "./assets/images/thumbs/serrapica.jpg"
     - name: Birolo Marco - AGR/20
       org: Università degli Studi di Padova
       homepage: https://www.scopus.com/authid/detail.uri?authorId=55846344200
