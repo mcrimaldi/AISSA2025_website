@@ -174,6 +174,10 @@
       homepage: https://www.scopus.com/authid/detail.uri?authorId=57195775371
       thumbnail: "./assets/images/thumbs/cei.jpg"
       post: "Ricercatore junior (RTD-A) presso l’Università degli Studi di Padova nel settore scientifico disciplinare AGR/01, Economia ed estimo rurale. Laureato in Scienze e Tecnologie Agrarie presso l’Università degli Studi di Firenze, ha conseguito il Dottorato di ricerca in “Land, Environment, Resources and Health” presso l’Università degli Studi di Padova. I suoi principali interessi di ricerca sono i sistemi di qualità nel settore agroalimentare, con particolare riferimento ai segni di qualità comunitari, quali indicazioni geografiche, agricoltura biologica e prodotto di montagna. Inoltre, ha lavorato sull’analisi di sistemi agricoli locali, principalmente in un’ottica di valorizzazione della filiera e delle produzioni agricole, attività attraverso la quale ha partecipato a gruppi di ricerca nazionali ed internazionali."
+    - name: Ciliberti Stefano - AGR/01
+      org: Università degli Studi di Perugia
+      homepage: ""
+      post: ""
     - name: Verdi Leonardo - AGR/02
       org: Università degli Studi di Firenze
       homepage: https://www.scopus.com/authid/detail.uri?authorId=57204481235
@@ -194,6 +198,10 @@
       post: "Ricercatore a tempo determinato di tipo A nel gruppo scientifico disciplinare AGRI-02/A (SSD AGR/02), Agronomia e Coltivazioni Erbacee, presso il Dipartimento di Scienze Agrarie, Forestali e Alimentari (DISAFA) dell’Università degli Studi di Torino. Nel 2020 ha ottenuto il Dottorato di Ricerca presso la stessa Università. Nel 2017 ha svolto uno stage presso il Lethbridge Research and Development Center, Agriculture and Agri-Food Canada (Lethbridge, Alberta, Canada) e nel 2018 presso il William H Miner Agricultural Research Institute - Lallemand Animal Nutrition Forage Center of Excellence (Chazy, New York, USA). Le principali tematiche di ricerca riguardano i sistemi colturali foraggeri e la qualità dei foraggi in relazione ai processi di conservazione, con particolare attenzione alle influenze sull'efficienza dei processi e sulla loro sostenibilità."
       homepage: http://orcid.org/0000-0002-9551-0796
       thumbnail: "./assets/images/thumbs/ferrero.jpg"
+    - name: Pagnani Giancarlo - AGR/02
+      org: Università degli Studi di Teramo
+      homepage: ""
+      post: ""
     - name: Lo Piccolo Ermes - AGR/03
       org: Università degli Studi di Firenze
       homepage: https://www.scopus.com/authid/detail.uri?authorId=57192063751
@@ -255,8 +263,10 @@
       thumbnail: "./assets/images/thumbs/santolini.jpg"
       post: "Ricercatore junior (RTD-A) nel settore scientifico disciplinare AGR/10, Costruzioni rurali e territorio agroforestale, presso il Dipartimento di Scienze e Tecnologie Agro-Alimentari (DISTAL) dell’Università di Bologna. Attualmente è candidata nel Dottorato di Ricerca in Salute, Sicurezza e Sistemi del verde dell’Università di Bologna e, nel 2019, ha ottenuto il Dottorato di Ricerca in Ingegneria Agraria presso l’Università di Bologna. I suoi principali interessi di ricerca includono aspetti progettuali, energetici e ambientali relativi a diverse tipologie di costruzioni rurali (serre, cantine, edifici ad uso zootecnico). In tali tipologie di edifici, ha approfondito analisi CFD e di monitoraggio ambientale, così come aspetti energetici e di sostenibilità. È membro del gruppo di ricerca dell'Università di Bologna nell'ambito del progetto di ricerca PRIN 2017 in corso Smart dairy farming: innovative solutions to improve herd productivity e del progetto PRIMA Self-enough Integrated Multi-Trophic AquaPonic systems for improving food production sustainability and brackish water use and recycling (SIMTAP). È membro dell'Associazione Italiana di Ingegneria Agraria (AIIA), della Società Europea degli Ingegneri Agrari (EurAgEng) e della Commissione Internazionale di Ingegneria Agraria (CIGR)."
     - name: Becchimanzi Andrea - AGR/11
-      org: UniNA
-      homepage: ""
+      org: Università degli Studi di Napoli Federico II
+      post: "Ricercatore (RTDa) in Entomologia (AGR/11) presso il Dipartimento di Agraria dell'Università di Napoli Federico II. Ha conseguito il Dottorato di Ricerca in Biotecnologie presso l'Università di Napoli nel 2019, con la tesi Exploring honeybee-mite immune interactions for developing RNAi based control technologies of Varroa destructor. Durante il dottorato, ha trascorso sei mesi nel laboratorio del Dr. Alan Bowman presso l'Università di Aberdeen (Scozia). L’argomento principale della sua ricerca è lo studio dell’immunità e della fisiologia degli insetti in risposta a interazioni antagoniste. Integra analisi fisiologiche, molecolari e bioinformatiche per l’identificazione di nuovi strumenti di biocontrollo e lo sviluppo di approcci bioispirati per il controllo degli insetti dannosi."
+      homepage: https://www.scopus.com/authid/detail.uri?authorId=57193882697
+      thumbnail: "./assets/images/thumbs/becchimanzi.jpg"
     - name: Manganiello Gelsomina - AGR/12
       org: UniNA
       homepage: ""
@@ -275,7 +285,7 @@
       thumbnail: "./assets/images/thumbs/garau.jpg"
       post: "Ricercatore a tempo determinato di tipo A nel settore scientifico disciplinare AGR/13, Chimica Agrarai, presso il Dipartimento di Agraria dell’Università degli Studi di Sassari. Nel 2021 ha ottenuto il Dottorato di Ricerca in Scienze Agrarie presso l’Università degli Studi di Sassari, vincitore premio SICA per la migliore tesi di dottorato edizione 2020-2021 sulla tematica “Innovazione e Tecnologie nel sistema suolo-pianta per uno sviluppo sostenibile e una agricoltura responsabile”. Collaborazioni attive con l’University of Reading (UK) e il KNUST (Ghana). I suoi principali interessi di ricerca includono studi per sviluppare adottare tecniche innovative e ecosostenibili per il recupero funzionale di suoli marginali, contaminati e degradati. In particolare, le ricerche riguardano l’applicazione di ammendanti organici e consorzi microbici a suoli contaminati per aumentare l’efficienza delle tecniche di fitorisanamento; e la valorizzazione di sottoprodotti agro-industriali per la produzione di ammendanti organici da applicare a suoli degradati per incrementare le produzioni agrarie ecosostenibili specialmente in Paesi in via di sviluppo."
     - name: Giannetta Beatrice - AGR/13
-      org:
+      org: Università degli Studi di Foggia
       homepage: ""
     - name: Ceccanti Costanza - AGR/13
       org: Università di Pisa
@@ -286,7 +296,7 @@
       org: Alma Mater Studiorum - Università di Bologna
       homepage: ""
     - name: Squeo Giacomo - AGR/15
-      org: UniBO
+      org: Università degli Studi di Bari
       homepage: ""
     - name: Salvetti Elisa - AGR/16
       org: Università di Verona
