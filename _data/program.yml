@@ -33,6 +33,20 @@ invited:
           events:
             - title: "Precog: Action-Based Time-Shifted Prefetching for Web Applications on Mobile Devices"
               speakers: "Shruti Sanadhya:Hewlett Packard Labs, Palo Alto, CA; Uma Parthavi Moravapalle:Georgia Institute of Technology, Atlanta, GA; Kyu-Han Kim:Hewlett Packard Labs, Palo Alto, CA; Raghupathy Sivakumar:Georgia Institute of Technology, Atlanta, GA"
+    - date: "2025-06-05"
+      dateReadable: "5 Giugno 2025"
+      timeslots:
+        - startTime: "9:00"
+          endTime: "10:00"
+          title: "Titolo Test"
+          speaker: "Autore test"
+          affiliation: "Affiliazione Test"
+          sinossi: "Sinossi test"
+          bio: "bio test"
+          image: "./assets/images/thumbs/baroncelli.jpg"
+          events:
+            - title: "Precog: Action-Based Time-Shifted Prefetching for Web Applications on Mobile Devices"
+              speakers: "Shruti Sanadhya:Hewlett Packard Labs, Palo Alto, CA; Uma Parthavi Moravapalle:Georgia Institute of Technology, Atlanta, GA; Kyu-Han Kim:Hewlett Packard Labs, Palo Alto, CA; Raghupathy Sivakumar:Georgia Institute of Technology, Atlanta, GA"
   # speakers:
   #   - name: "Riccardo Baroncelli"
   #     affiliation: "Alma Mater Studiorum – Università di Bologna"
