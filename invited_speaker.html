@@ -63,16 +63,18 @@ slide_id: 4
               />
               <!-- <p><i>{{event.bio}}</i></p> -->
               <!-- Option 1: Collapsible Text -->
-              <button
-                class="btn btn-link"
-                type="button"
-                data-toggle="collapse"
-                data-target="#bio-{{forloop.index}}"
-                aria-expanded="false"
-                aria-controls="bio-{{forloop.index}}"
-              >
-                Mostra Bio
-              </button>
+              <p>
+                <button
+                  class="btn btn-link"
+                  type="button"
+                  data-toggle="collapse"
+                  data-target="#bio-{{forloop.index}}"
+                  aria-expanded="false"
+                  aria-controls="bio-{{forloop.index}}"
+                >
+                  Mostra Bio
+                </button>
+              </p>
               <div class="collapse" id="bio-{{forloop.index}}">
                 <p><i>{{event.bio}}</i></p>
               </div>
