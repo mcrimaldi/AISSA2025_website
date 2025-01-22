@@ -23,8 +23,8 @@ invited:
       dateReadable: "6 Giugno 2025"
       timeslots:
         - startTime: "9:00"
-          endTime: "10:00"
-          location: "Aula Cinese"
+          endTime: "12:00"
+          location: "Aula 1 - Palazzo Mascabruno"
           events:
             - title: "Cosa rende un fungo un patogeno delle piante di successo?"
               startTime: "9:00"
