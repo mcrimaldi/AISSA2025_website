@@ -23,7 +23,7 @@ invited:
       dateReadable: "6 Giugno 2025"
       timeslots:
         - startTime: "9:00"
-          endTime: "10:00"
+          endTime: "09:30"
           location: "Aula Cinese"
           # speaker: "Riccardo Baroncelli"
           # affiliation: "Alma Mater Studiorum – Università di Bologna"
