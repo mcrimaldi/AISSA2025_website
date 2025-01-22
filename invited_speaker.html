@@ -30,7 +30,7 @@ slide_id: 4
               <p class="text-muted">{{timeslot.title}}</p>
             </th>
             {% else %}
-            <th class="bg-primary text-center">
+            <th class="bg-primary text-center" colspan="2"></th>
               <h5><b>{{timeslot.location}}</b></h5>
             </th>
             {% endif %}
@@ -41,7 +41,7 @@ slide_id: 4
           {% for event in timeslot.events %}
           <tr>
             <td width="15%" class="text-center align-middle">
-              {{timeslot.startTime}}-{{timeslot.endTime}}
+              {{event.startTime}}-{{event.endTime}}
             </td>
             <td width="50%">
               <p><b>{{event.title}}</b></p>
