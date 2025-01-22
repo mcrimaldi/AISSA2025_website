@@ -174,6 +174,18 @@ sponsors:
   # - name: IEEE
   #   logo_path: ./assets/images/sponsors/ieee-logo.gif
   #   url: https://www.ieee.org/
+
+patrocini:
+  - name: Dipartimento di Eccellenza di Agraria - Università degli Studi di Napoli "Federico II"
+    logo_path: ./assets/images/sponsors/logo_eccellenzaagraria.png
+    url: https://agraria.unina.it/
+  - name: Ordine dei Dottori Agronomi e dei Dottori Forestali della Provincia di Napoli
+    logo_path: ./assets/images/sponsors/logo_ordineagronominapoli.jpg
+    url: https://www.agronominapoli.it/
+  - name: Comune di Portici
+    logo_path: ./assets/images/sponsors/logo_comuneportici.png
+    url: https://www.iolandabusillo.it/
+
 social_media:
   facebook_link:
   twitter_link:
