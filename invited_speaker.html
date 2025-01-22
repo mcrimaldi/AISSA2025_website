@@ -31,14 +31,7 @@ slide_id: 4
             </th>
             {% else %}
             <th class="bg-primary text-center">
-              <h5><b>{{timeslot.speaker}}</b></h5>
-              {% if timeslot.affiliation %}
-              <h6><i>{{timeslot.affiliation}}</i></h6>
-              {% endif %} {% if timeslot.title %}
-              <h5><i>{{timeslot.title}}</i></h5>
-              {% endif %} {% if timeslot.sinossi %}
-              <h6>{{timeslot.sinossi}}</h6>
-              {% endif %}
+              <h5><b>{{timeslot.location}}</b></h5>
             </th>
             {% endif %}
           </tr>
