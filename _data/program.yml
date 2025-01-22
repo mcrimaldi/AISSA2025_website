@@ -17,7 +17,7 @@ topics:
     description: "Risorse idriche e suolo, protezione dal dissesto geo-idrologico, conservazione della salute del suolo, impatto sull'economia dei territori"
 
 invited:
-  live: false
+  live: true
   program_slots:
     - date: "2025-06-06"
       dateReadable: "6 Giugno 2025"
