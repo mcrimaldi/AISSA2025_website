@@ -159,12 +159,12 @@ deadlines:
     strike_through: False
 
 sponsors:
-  # - name:
-  #   logo_path:
-  #   url:
-  # - name:
-  #   logo_path:
-  #   url:
+  - name: Azienda Agricola Iolanda Busillo
+    logo_path: ./assets/images/sponsors/logo_iolandabusillo.png
+    url: https://www.iolandabusillo.it/
+  - name: Lemon Line
+    logo_path: ./assets/images/sponsors/logo_lemonline.png
+    url: https://www.iolandabusillo.it/
   # - name:
   #   logo_path:
   #   url:
