@@ -6,21 +6,22 @@
     {% else %}
     <div class="row mx-1 my-1">
       {% for sponsor in site.data.conference.sponsors %}
-      <div class="card mx-1">
-        <div class="card-body text-center">
-          <a href="{{sponsor.url}}" target="_blank" rel="noopener noreferrer">
-            <img
-              class="img-fluid d-inline-block my-1"
-              src="{{ site.baseurl }}{{ sponsor.logo_path }}"
-              alt="{{ sponsor.name }}"
-              style="height: 300px; width: auto"
-            />
-          </a>
-          <br />
-          <a href="{{sponsor.url}}" target="_blank" rel="noopener noreferrer">
-            <small>{{sponsor.name}}</small>
-          </a>
-        </div>
+    <div class="card mx-1"></div>
+      <div class="card-body text-center">
+        <a href="{{sponsor.url}}" target="_blank" rel="noopener noreferrer">
+        <img
+          class="img-fluid d-inline-block my-1"
+          src="{{ site.baseurl }}{{ sponsor.logo_path }}"
+          alt="{{ sponsor.name }}"
+          style="height: 400px; width: auto"
+        />
+        </a>
+        <br />
+        <a href="{{sponsor.url}}" target="_blank" rel="noopener noreferrer">
+        <small>{{sponsor.name}}</small>
+        </a>
+      </div>
+    </div>
       </div>
       {% endfor %}
     </div>
