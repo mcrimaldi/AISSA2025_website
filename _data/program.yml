@@ -32,6 +32,8 @@ invited:
           # image: "./assets/images/thumbs/baroncelli.jpg"
           events:
             - title: "Cosa rende un fungo un patogeno delle piante di successo?"
+              startTime: "9:00"
+              endTime: "09:30"
               speaker: "Riccardo Baroncelli"
               affiliation: "Alma Mater Studiorum – Università di Bologna"
               sinossi: "I funghi fitopatogeni rappresentano una delle principali minacce per l’agricoltura globale, causando significative perdite di raccolto e danni economici. Questo intervento approfondirà i recenti progressi nella comprensione dei meccanismi molecolari che rendono questi organismi dei patogeni altamente efficaci. Presenteremo i risultati dei nostri studi volti all’identificazione di geni chiave responsabili della patogenicità, evidenziando come questi fattori genetici influenzino l’interazione fungo-pianta, l’adattamento ambientale e la capacità di superare le barriere difensive delle piante. Attraverso approcci di analisi genomica e funzionale, discuteremo il ruolo di questi geni nel successo evolutivo dei funghi patogeni e il loro potenziale come bersagli per strategie di controllo innovative, sostenibili ed ecologicamente responsabili."

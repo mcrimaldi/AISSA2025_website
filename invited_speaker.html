@@ -40,12 +40,23 @@ slide_id: 4
         <tbody>
           {% for event in timeslot.events %}
           <tr>
-            <td width="20%"></td>
-            <td>
+            <td width="15%" class="text-center align-middle">
+              {{timeslot.startTime}}-{{timeslot.endTime}}
+            </td>
+            <td width="50%">
               <p><b>{{event.title}}</b></p>
               <p><i>{{event.speaker}}</i></p>
               <p><i>{{event.affiliation}}</i></p>
               <p><i>{{event.sinossi}}</i></p>
+            </td>
+            <td width="35%" class="text-center align-middle">
+              <img
+                src="{{event.image}}"
+                alt="{{event.speaker}}"
+                class="img-fluid rounded-circle"
+                style="max-width: 100px"
+              />
+              <p><i>{{event.bio}}</i></p>
             </td>
           </tr>
           {% endfor %}
