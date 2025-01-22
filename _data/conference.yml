@@ -95,6 +95,10 @@ navbar:
         label: Cena Sociale
         path: /cena_sociale.html
         visible: True
+      - id: 5
+        label: Altri Eventi
+        path: /altri_eventi.html
+        visible: True
   - id: 2
     label: Comitati
     path: /organization.html
