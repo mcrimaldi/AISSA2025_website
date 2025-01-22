@@ -17,8 +17,13 @@ slide_id: 4
         {% for timeslot in day.timeslots %}
         <thead>
           <tr>
-            <th class="bg-info text-center">
-              <div>{{timeslot.startTime}}-{{timeslot.endTime}}</div>
+            <th class="bg-info text-center align-middle">
+              <div
+                class="d-flex justify-content-center align-items-center"
+                style="height: 100%"
+              >
+                {{timeslot.startTime}}-{{timeslot.endTime}}
+              </div>
             </th>
             {% if timeslot.type == "service" %}
             <th class="bg-warning text-center">
