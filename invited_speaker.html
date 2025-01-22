@@ -10,9 +10,7 @@ slide_id: 4
     {% if site.data.program.invited.live == true %} {% for day in
     site.data.program.invited.program_slots %}
     <div>
-      <h4 class="schedule-table-heading">
-        {{ day.dateReadable }} - Day {{ forloop.index }}
-      </h4>
+      <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
       <table
         class="table table-bordered table-striped table-hover table-responsive table-sm"
       >
@@ -28,11 +26,13 @@ slide_id: 4
             </th>
             {% else %}
             <th class="bg-primary text-center">
-              <h5>{{timeslot.title}}</h5>
-              {% if timeslot.speaker %}
-              <h5>{{timeslot.speaker}}</h5>
-              {% endif %} {% if timeslot.affiliation %}
-              <h6>Session chair:{{timeslot.affiliation}}</h6>
+              <h5><b>{{timeslot.speaker}}</b></h5>
+              {% if timeslot.affiliation %}
+              <h6><i>{{timeslot.affiliation}}</i></h6>
+              {% endif %} {% if timeslot.title %}
+              <h5><i>{{timeslot.title}}</i></h5>
+              {% endif %} {% if timeslot.sinossi %}
+              <h6>{{timeslot.sinossi}}</h6>
               {% endif %}
             </th>
             {% endif %}
