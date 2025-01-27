@@ -189,6 +189,9 @@ patrocini:
   - name: Comune di Portici
     logo_path: ./assets/images/sponsors/logo_comuneportici.png
     url: https://www.iolandabusillo.it/
+  - name: Fondazione Veronesi
+    logo_path: ./assets/images/sponsors/logo_fondazioneveronesi.png
+    url: https://www.fondazioneveronesi.it/
 
 social_media:
   facebook_link:
