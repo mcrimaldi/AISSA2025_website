@@ -60,10 +60,10 @@ invited:
               startTime: "10:00"
               endTime: "10:30"
               speaker: "Dott.ssa Manuela Tortese"
-              affiliation: ""
+              affiliation: "Time Vision - Formazione, Consulenza, Lavoro"
               sinossi: "In un contesto sempre più interconnesso e multidisciplinare, la capacità di comunicare il proprio valore, condividere risultati di ricerca e instaurare collaborazioni strategiche rappresenta un elemento chiave per la crescita professionale. L’incontro offrirà un ambiente stimolante ed informale in cui esplorare strumenti e metodologie per costruire una solida identità professionale, amplificare la visibilità della propria attività scientifica e sviluppare sinergie tra li diversi professionisti.  Saranno condivisi ai partecipanti consigli pratici per acquisire competenze per promuovere la propria professionalità ed il lavoro che c’è dietro ogni ricerca e, nello stesso tempo rafforzare la propria presenza nel panorama scientifico internazionale, utilizzando efficacemente canali digitali, social network, eventi di settore e reti di collaborazione. L’obiettivo è stimolare un dialogo costante e continuo tra giovani ricercatori, promuovendo un ecosistema dinamico di conoscenza e innovazione, in cui la condivisione di idee e la creazione di connessioni strategiche diventino leve per il progresso della ricerca e per nuove opportunità professionali."
               bio: "Manuela Tortese è Coordinatore Didattico della Master Academy Time Vision ed in particolare del Master in Quality & Food Safety Management accreditato a livello nazionale dall'Ordine Tecnologi Alimentari, FNOB e SIM Carabinieri. E' Orientatore accreditato ASNOR. Solida esperienza nella formazione e nella gestione dei percorsi didattici nell’ambito della qualità e della sicurezza alimentare, guida con competenza e passione futuri professionisti del settore, supportandoli nella loro crescita formativa e professionale. Come orientatore accompagna giovani talenti nello sviluppo di strategie efficaci per l’inserimento e il consolidamento nel mondo del lavoro."
-              image: ""
+              image: "./assets/images/thumbs/tortese.jpg"
 
 online:
   live: false
