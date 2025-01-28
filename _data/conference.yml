@@ -192,6 +192,9 @@ patrocini:
   - name: Fondazione Veronesi
     logo_path: ./assets/images/sponsors/logo_fondazioneveronesi.png
     url: https://www.fondazioneveronesi.it/
+  - name: Società Italiana di Patologia Vegetale
+    logo_path: ./assets/images/sponsors/logo_sipav.png
+    url: https://www.sipav.org/
 
 social_media:
   facebook_link:
