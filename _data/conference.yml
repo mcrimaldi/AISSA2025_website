@@ -169,6 +169,9 @@ sponsors:
   - name: Lemon Line
     logo_path: ./assets/images/sponsors/logo_lemonline.png
     url: https://www.iolandabusillo.it/
+  - name: Fondo Giglio
+    logo_path: ./assets/images/sponsors/logo_fondogiglio.png
+    url: https://www.fondogiglio.it/
   # - name:
   #   logo_path:
   #   url:
