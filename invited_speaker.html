@@ -10,21 +10,12 @@ slide_id: 4
     {% if site.data.program.invited.live == true %} {% for day in
     site.data.program.invited.program_slots %}
     <div>
-      <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
       <table
         class="table table-bordered table-striped table-hover table-responsive table-sm"
       >
         {% for timeslot in day.timeslots %}
         <thead>
           <tr>
-            <th class="bg-info text-center align-middle">
-              <div
-                class="d-flex justify-content-center align-items-center"
-                style="height: 100%"
-              >
-                {{timeslot.startTime}}-{{timeslot.endTime}}
-              </div>
-            </th>
             {% if timeslot.type == "service" %}
             <th class="bg-warning text-center">
               <p class="text-muted">{{timeslot.title}}</p>
@@ -45,9 +36,6 @@ slide_id: 4
         <tbody>
           {% for event in timeslot.events %}
           <tr>
-            <td width="15%" class="text-center align-middle">
-              {{event.startTime}}-{{event.endTime}}
-            </td>
             <td width="50%">
               <p><b>{{event.title}}</b></p>
               <p><i>{{event.speaker}}</i></p>
@@ -61,8 +49,6 @@ slide_id: 4
                 class="img-fluid rounded-circle"
                 style="max-width: 100px"
               />
-              <!-- <p><i>{{event.bio}}</i></p> -->
-              <!-- Option 1: Collapsible Text -->
               <p>
                 <button
                   class="btn btn-link"
