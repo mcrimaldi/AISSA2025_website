@@ -13,4 +13,13 @@ accommodation:
     - name: Villa Signorini Events & Hotel
       zone: Portici/Ercolano (nei pressi del Dipartimento di Agraria)
       address: Via Roma, 43, 80056 Ercolano (NA)
+    - name: Elly's B&B
+      zone: Portici/Ercolano (nei pressi del Dipartimento di Agraria)
+      address: Via Libertà, 218/A, 80055 Portici (NA)
+    - name: Megaride Domus
+      zone: Portici/Ercolano (nei pressi del Dipartimento di Agraria)
+      address: Corso Resina, 29, 80056 Ercolano (NA)
+    - name: Hostel Portici
+      zone: Portici/Ercolano (nei pressi del Dipartimento di Agraria)
+      address: Via Francesco Bellucci Sessa, 22, 80055 Portici (NA)
 direction: ./assets/images/direction.png
