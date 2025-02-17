@@ -10,6 +10,6 @@ accommodation:
       A breve aggiorneremo la pagina con una lista di strutture convenzionate.
     </p>
   hotels:
-    # - name: TBA
-    #   address: TBA
+    - name: TBA
+      address: TBA
 direction: ./assets/images/direction.png
