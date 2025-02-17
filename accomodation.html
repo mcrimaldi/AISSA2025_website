@@ -10,12 +10,15 @@ slide_id: 6
 
     <p>{{site.data.venue.accommodation.instructions}}</p>
 
-    {% if site.data.venue.accommodation.hotels %}
+    {% if site.data.venue.accommodation.hotels %} {% assign hotels_by_zone =
+    site.data.venue.accommodation.hotels | group_by: "zone" %} {% for zone in
+    hotels_by_zone %}
+    <h5>{{ zone.name }}</h5>
     <ul>
-      {% for hotel in site.data.venue.accommodation.hotels %}
+      {% for hotel in zone.items %}
       <li><b>{{hotel.name}}</b> ({{hotel.address}})</li>
       {% endfor %}
     </ul>
-    {% endif %}
+    {% endfor %} {% endif %}
   </div>
 </div>

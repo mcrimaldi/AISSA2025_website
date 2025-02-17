@@ -11,5 +11,6 @@ accommodation:
     </p>
   hotels:
     - name: TBA
+      zone: Portici/Ercolano (nei pressi del Dipartimento di Agraria)
       address: TBA
 direction: ./assets/images/direction.png
