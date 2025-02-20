@@ -172,6 +172,9 @@ sponsors:
   - name: Fondo Giglio
     logo_path: ./assets/images/sponsors/logo_fondogiglio.png
     url: https://www.fondogiglio.it/
+  - name: PEFC Italia
+    logo_path: ./assets/images/sponsors/logo_pefc.png
+    url: https://pefc.it/
   # - name:
   #   logo_path:
   #   url:
@@ -198,6 +201,9 @@ patrocini:
   - name: Società Italiana di Patologia Vegetale
     logo_path: ./assets/images/sponsors/logo_sipav.png
     url: https://www.sipav.org/
+  - name: Regione Campania
+    logo_path: ./assets/images/sponsors/logo_regione.png
+    url: https://www.regione.campania.it/
 
 social_media:
   facebook_link:
