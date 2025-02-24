@@ -143,11 +143,11 @@ deadline_timezone:
 deadlines:
   - date: 2025-02-20
     text: Termine ultimo invio abstract
-    pass_due: False
-    strike_through: False
+    pass_due: True
+    strike_through: True
   - date: 2025-01-20
     text: Termine ultimo invio abstract
-    pass_due: False
+    pass_due: True
     strike_through: True
   - date: 2025-03-20
     text: Comunicazione dell’esito della valutazione degli abstract e indicazione della modalità di presentazione
