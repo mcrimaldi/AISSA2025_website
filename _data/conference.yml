@@ -163,6 +163,9 @@ deadlines:
     strike_through: False
 
 sponsors:
+  - name: Ecosearch Srl
+    logo_path: ./assets/images/sponsors/logo_ecosearch.png
+    url: https://www.ecosearch.info/
   - name: Azienda Agricola Iolanda Busillo
     logo_path: ./assets/images/sponsors/logo_iolandabusillo.png
     url: https://www.iolandabusillo.it/
