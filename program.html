@@ -58,6 +58,26 @@ slide_id: 4
                         <th class="bg-warning text-center">
                             <p class="text-muted">{{timeslot.title}}</p>
                         </th>
+                        {% elsif timeslot.type == "poster" %}
+                        <th class="bg-success text-center">
+                            <h5>{{timeslot.title}}</h5>
+                            {% if timeslot.speaker %}
+                            <h5>{{timeslot.speaker}}</h5>
+                            {% endif %}
+                            {% if timeslot.chair %}
+                            <h6>Moderatore: {{timeslot.chair}}</h6>
+                            {% endif %}
+                        </th>
+                        {% elsif timeslot.type == "Sessioni Parallele" %}
+                        <th class="bg-info text-center">
+                            <h5>{{timeslot.title}}</h5>
+                            {% if timeslot.speaker %}
+                            <h5>{{timeslot.speaker}}</h5>
+                            {% endif %}
+                            {% if timeslot.chair %}
+                            <h6>Moderatore: {{timeslot.chair}}</h6>
+                            {% endif %}
+                        </th>
                         {% else %}
                         <th class="bg-primary text-center">
                             <h5>{{timeslot.title}}</h5>
