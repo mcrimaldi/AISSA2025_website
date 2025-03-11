@@ -72,17 +72,17 @@ online:
       url: https://www.youtube.com/watch?v=n1SPshTzcbg&ab_channel=SanskritResearchInstitute
 
 schedule:
-  live: false
+  live: true
   program_slots:
-    - date: "2017-10-14"
-      dateReadable: "October 14"
+    - date: "2025-06-05"
+      dateReadable: "05 Giugno 2025"
       timeslots:
-        - startTime: "8:50"
-          endTime: "9:00"
-          title: "Open remarks"
+        - startTime: "8:30"
+          endTime: "10:00"
+          title: "Registrazione Partecipanti"
         - startTime: "9:00"
           endTime: "10:00"
-          title: "Keynote I: Internet, Things, and Smartness"
+          title: "Apertura dei Lavori"
           speaker: "Samee U. Khan (NSF & North Dakota State University)"
           chair: "Xiuzhen Cheng"
         - startTime: "10:00"
