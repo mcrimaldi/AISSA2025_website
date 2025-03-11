@@ -72,7 +72,7 @@ online:
       url: https://www.youtube.com/watch?v=n1SPshTzcbg&ab_channel=SanskritResearchInstitute
 
 schedule:
-  live: false
+  live: true
   program_slots:
     - date: "2025-06-05"
       dateReadable: "05 Giugno 2025"
@@ -83,8 +83,8 @@ schedule:
         - startTime: "9:00"
           endTime: "10:00"
           title: "Apertura dei Lavori"
-          speaker: "Samee U. Khan (NSF & North Dakota State University)"
-          chair: "Xiuzhen Cheng"
+          speaker: ""
+          chair: ""
         - startTime: "10:30"
           endTime: "11:00"
           title: "Coffee break"
@@ -92,16 +92,15 @@ schedule:
         - startTime: "10:30"
           endTime: "12:00"
           title: "WEB"
-          type: "presentation"
+          type: "Sessioni Parallele"
           events:
             - title: "Precog: Action-Based Time-Shifted Prefetching for Web Applications on Mobile Devices"
               speakers: "Shruti Sanadhya:Hewlett Packard Labs, Palo Alto, CA; Uma Parthavi Moravapalle:Georgia Institute of Technology, Atlanta, GA; Kyu-Han Kim:Hewlett Packard Labs, Palo Alto, CA; Raghupathy Sivakumar:Georgia Institute of Technology, Atlanta, GA"
-            - title: "An Empirical Study of Financial Incentivized Question Answering in Social Websites"
-              speakers: "Huangxin Wang:George Mason University; Zhonghua Xi:George Mason University; Jean X. Zhang:Virginia Commonwealth University; Fei Li:George Mason University"
-            - title: "Automated Least Privileges in Cloud-Based Web Services"
-              speakers: "Matthew Sanders:Colorado School of Mines; Chuan Yue:Colorado School of Mines"
-            - title: "Extracting Web Information using Representation Patterns"
-              speakers: "Juan C. Roldán:University of Sevilla; Patricia Jiménez:University of Sevilla; Rafael Corchuelo:University of Sevilla"
+        - startTime: "10:30"
+          endTime: "12:00"
+          title: "WEB"
+          type: "Poster"
+          events:
             - title: "NoCDN: Scalable Content Delivery Without a Middleman"
               speakers: "Junbo Xu:Case Western Reserve University; Michael Rabinovich:Case Western Reserve University"
 #   - startTime: "12:00"

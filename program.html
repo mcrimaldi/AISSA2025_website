@@ -46,7 +46,7 @@ slide_id: 4
         {% if site.data.program.schedule.live %}
         {% for day in site.data.program.schedule.program_slots %}
         <div>
-            <h4 class="schedule-table-heading">{{ day.dateReadable }} - Day {{ forloop.index }}</h4>
+            <h4 class="schedule-table-heading">{{ day.dateReadable }} - Giorno {{ forloop.index }}</h4>
             <table class="table table-bordered table-striped table-hover table-responsive table-sm">
                 {% for timeslot in day.timeslots %}
                 <thead>
@@ -65,7 +65,7 @@ slide_id: 4
                             <h5>{{timeslot.speaker}}</h5>
                             {% endif %}
                             {% if timeslot.chair %}
-                            <h6>Session chair:{{timeslot.chair}}</h6>
+                            <h6>Moderatore: {{timeslot.chair}}</h6>
                             {% endif %}
                         </th>
                         {% endif %}
