@@ -151,8 +151,8 @@ deadlines:
     strike_through: True
   - date: 2025-03-20
     text: Comunicazione dell’esito della valutazione degli abstract e indicazione della modalità di presentazione
-    pass_due: False
-    strike_through: False
+    pass_due: True
+    strike_through: True
   - date: 2025-03-20
     text: Apertura iscrizioni
     pass_due: False
