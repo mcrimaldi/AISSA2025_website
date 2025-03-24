@@ -39,8 +39,10 @@ description: |
   <p>
     Effettuare un bonifico bancario intestato a:
   </p>
-    Comitato organizzazione aissa under 40 2025 
-    IBAN: IT95V0623040092000058267974
+    <div class="box">
+      <p class="font-weight-bold">Comitato organizzazione AISSA Under 40 2025</p>
+      <p class="font-weight-bold">IBAN: IT95V0623040092000058267974</p>
+    </div>
   <p>
     Per iscriversi con quote pagate individualmente è necessario caricare la ricevuta del bonifico nel form di iscrizione.
   </p>
