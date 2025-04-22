@@ -46,7 +46,10 @@ slide_id: 4
         <div class="alert alert-warning rounded text-center mx-3 my-5">
             <strong>Il convegno si svolgerà in lingua italiana. Tuttavia, nel caso in cui tra i partecipanti vi siano ospiti stranieri che non comprendono l'italiano, i relatori potranno, a loro discrezione, intervenire in inglese per facilitare la comprensione.</strong>
         </div>
-        {% if site.data.program.schedule.live %}
+
+
+        
+        <!-- {% if site.data.program.schedule.live %}
         {% for day in site.data.program.schedule.program_slots %}
         <div>
             <h4 class="schedule-table-heading">{{ day.dateReadable }} - Giorno {{ forloop.index }}</h4>
@@ -116,7 +119,7 @@ slide_id: 4
         <div class="alert alert-warning rounded text-center mx-3 my-5">
             TBA
         </div>
-        {% endif %}
+        {% endif %} -->
 
         <div class="conference-text">
             {% include contact-us.html %}
