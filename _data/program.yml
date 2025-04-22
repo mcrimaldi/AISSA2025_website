@@ -80,7 +80,7 @@ online:
       url: https://www.youtube.com/watch?v=n1SPshTzcbg&ab_channel=SanskritResearchInstitute
 
 schedule:
-  live: true
+  live: false
   program_slots:
     - date: "2025-06-05"
       dateReadable: "05 Giugno 2025"
