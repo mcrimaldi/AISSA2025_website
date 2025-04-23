@@ -114,9 +114,19 @@ slide_id: 4
         </div>
         {% endfor %}
         {% else %}
-        <div class="alert alert-warning rounded text-center mx-3 my-5">
-            TBA
+        <div class="my-4 text-center">
+            <h5>Visualizza il programma in PDF</h5>
+            <iframe src="./assets/Programma_AISSA2025.pdf" width="100%" height="600px" style="border:1px solid #ccc;">
+                Questo browser non supporta la visualizzazione dei PDF. 
+                <a href="./assets/Programma_AISSA2025.pdf">Scarica il PDF</a>.
+            </iframe>
+            <p class="mt-2">
+                <a href="./assets/Programma_AISSA2025.pdf" target="_blank" class="btn btn-primary">Scarica il PDF</a>
+            </p>
         </div>
+        <!--         <div class="alert alert-warning rounded text-center mx-3 my-5">
+            TBA
+        </div> -->
         {% endif %}
 
         <div class="conference-text">
