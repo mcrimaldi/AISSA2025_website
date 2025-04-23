@@ -24,7 +24,7 @@ invited:
       timeslots:
         - startTime: "9:00"
           endTime: "12:00"
-          location: "Aula 1 - Palazzo Mascabruno"
+          location: "Aula 1 - Complesso Mascabruno"
           events:
             - title: "Cosa rende un fungo un patogeno delle piante di successo?"
               startTime: "9:00"
