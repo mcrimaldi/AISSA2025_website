@@ -167,8 +167,8 @@ deadlines:
     strike_through: False
   - date: 2025-05-01
     text: Termine iscrizione quota ridotta
-    pass_due: False
-    strike_through: False
+    pass_due: True
+    strike_through: True
 
 sponsors:
   - name: Ecosearch Srl
