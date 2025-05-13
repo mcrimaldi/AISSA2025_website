@@ -194,6 +194,9 @@ sponsors:
   - name: PEFC Italia
     logo_path: ./assets/images/sponsors/logo_pefc.png
     url: https://pefc.it/
+  - name: MDPI
+    logo_path: ./assets/images/sponsors/mdpi.png
+    url: https://www.mdpi.com/
   # - name:
   #   logo_path:
   #   url:
