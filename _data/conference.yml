@@ -173,6 +173,10 @@ deadlines:
     text: Termine iscrizione
     pass_due: False
     strike_through: False
+  - date: 2025-05-23
+    text: Termine invio abstract per Book of Abstract
+    pass_due: False
+    strike_through: False
 
 sponsors:
   - name: Ecosearch Srl
