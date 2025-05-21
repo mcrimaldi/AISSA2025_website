@@ -5,7 +5,9 @@ url_hide: "https://forms.gle/Uc4vuzgvpAV4Yh1CA"
 description: |
   <h5 class="text-info">Iscrizioni</h5>
   <p>
-    <strong>Le registrazioni sono chiuse, come già indicato in precedenza. Inoltre, è stata raggiunta la capienza massima delle aule prevista dalla normativa vigente</strong>
+    <div style="text-align:center; background-color: #ffebee; border: 1px solid #ef5350; padding: 10px; margin: 10px 0; border-radius: 4px; color: #c62828;">
+      <strong>Le registrazioni sono chiuse, come già indicato in precedenza. Inoltre, è stata raggiunta la capienza massima delle aule prevista dalla normativa vigente</strong>
+    </div>
   </p>
   <p>
     L’invio di contributi è riservato a coloro che abbiano non più di 40 anni.
