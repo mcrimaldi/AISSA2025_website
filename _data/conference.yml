@@ -13,8 +13,8 @@ description: > # this means to ignore newlines until "baseurl:"
     <strong><a href="./program">Indicazioni per Book of Abstract</a></strong>
   </div>
   <hr />
-  <div style="text-align:center;">
-    <strong>Le registrazioni sono chiuse, come già indicato in precedenza. Inoltre, è stata raggiunta la capienza massima delle aule prevista dalla normativa vigente</strong>
+    <div style="text-align:center; background-color: #ffebee; border: 1px solid #ef5350; padding: 10px; margin: 10px 0; border-radius: 4px; color: #c62828;">
+      <strong>Le registrazioni sono chiuse, come già indicato in precedenza. Inoltre, è stata raggiunta la capienza massima delle aule prevista dalla normativa vigente</strong>
   </div>
   <hr />
   Il Convegno AISSA#under40 è un’occasione d’incontro per giovani ricercatrici e ricercatori che vogliono arricchire le proprie competenze, diffondere le proprie conoscenze ed i risultati scientifici ottenuti.
