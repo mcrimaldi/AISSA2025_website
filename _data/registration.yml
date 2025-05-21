@@ -1,7 +1,7 @@
-about: "Le iscrizioni al VI Convegno AISSA Under 40 apriranno a breve. Quando saranno aperte, basterà compilare il form e seguire le istruzioni qui sotto:"
-about_hide: "Le iscrizioni al VI Convegno AISSA Under 40 sono aperte. Per iscriversi compilare il form e seguire le istruzioni qui sotto:"
-url: "https://forms.gle/DnfSSJeuG8aqGcbb9"
-url_hide: "https://forms.gle/Uc4vuzgvpAV4Yh1CA"
+about:
+about_hide:
+url:
+url_hide:
 description: |
   <h5 class="text-info">Iscrizioni</h5>
   <p>
@@ -10,11 +10,12 @@ description: |
     </div>
   </p>
   <p>
+    <s>
     L’invio di contributi è riservato a coloro che abbiano non più di 40 anni.
     E’ incoraggiata la partecipazione di dottorandi/e, borsisti/e e assegnisti/e di ricerca, ai quali
     saranno riservate alcune delle presentazioni orali.
     E' comunque benvenuta e auspicata la partecipazione, in qualità di uditori, di tutti gli
-    under/over 40 interessati all’evento.
+    under/over 40 interessati all’evento.</s>
   </p>
   <p>
     <s>Per iscriversi al convegno AISSA#under40 è necessario:</s>
@@ -45,8 +46,8 @@ description: |
     <s>Effettuare un bonifico bancario intestato a:</s>
   </p>
     <div class="box">
-      <p class="font-weight-bold">Comitato organizzazione AISSA Under 40 2025</p>
-      <p class="font-weight-bold">IBAN: IT95V0623040092000058267974</p>
+      <p class="font-weight-bold"><s>Comitato organizzazione AISSA Under 40 2025</s></p>
+      <p class="font-weight-bold"><s>IBAN: IT95V0623040092000058267974</s></p>
     </div>
   <p>
     <s>Per iscriversi con quote pagate individualmente è necessario caricare la ricevuta del bonifico nel form di iscrizione.</s>
