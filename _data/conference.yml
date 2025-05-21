@@ -175,8 +175,8 @@ deadlines:
     strike_through: True
   - date: 2025-05-20
     text: Termine iscrizione
-    pass_due: False
-    strike_through: False
+    pass_due: True
+    strike_through: True
   - date: 2025-05-23
     text: Termine invio abstract per Book of Abstract
     pass_due: False
