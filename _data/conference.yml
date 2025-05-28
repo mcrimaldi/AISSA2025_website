@@ -183,10 +183,14 @@ deadlines:
     strike_through: True
   - date: 2025-05-23
     text: Termine invio abstract per Book of Abstract
-    pass_due: False
-    strike_through: False
+    pass_due: True
+    strike_through: True
   - date: 2025-06-05
     text: Inizio conferenza
+    pass_due: False
+    strike_through: False
+  - date: 2025-06-06
+    text: Fine conferenza
     pass_due: False
     strike_through: False
 
