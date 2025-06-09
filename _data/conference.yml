@@ -217,6 +217,9 @@ sponsors:
   - name: MDPI
     logo_path: ./assets/images/sponsors/mdpi.png
     url: https://www.mdpi.com/
+  - name: MDPI - Horticolturae
+    logo_path: ./assets/images/sponsors/horticolturae.jpg
+    url: https://www.mdpi.com/journal/horticulturae
   # - name:
   #   logo_path:
   #   url:
